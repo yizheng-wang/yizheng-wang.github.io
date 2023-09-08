@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yizheng Wang"
-description              : "I am a first-year Ph.D student from Department of Engineering Mechanics in Tsinghua University."
+description              : "PhD Candidate in Tsinghua University, foucus on AI4Science, combination of AI and computational mechanics, Physics-informed neural networks, and Deep Energy Method"
 repository               : "yizheng-wang/yizheng-wang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yizheng Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Yizheng Wang"
   location         : "Beijing, China"
