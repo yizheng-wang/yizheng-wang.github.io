@@ -60,7 +60,29 @@ Jia Sun, Yinghua Liu, **Yizheng Wang**, Zhenhan Yao, and Xiaoping Zheng
 </div>
 </div>
 # 📝 Under Review
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[A deep complementary energy method for solid mechanics using minimum complementary energy principle](https://arxiv.org/pdf/2302.01538.pdf)
+
+**Yizheng Wang**, Jia Sun, Timon Rabczuk, and Yinghua Liu
+
+[**Project**](https://arxiv.org/abs/2302.01538) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We propose the deep complementary energy method (DCEM) based on the principle of minimum complementary energy firstly.  DCEM outperforms DEM in terms of stress accuracy and efficiency and has an advantage in dealing with complex displacement boundary conditions. A deep complementary energy operator method (DCEM-O) by combining operator learning with physical equations is proposed.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Renewable Energy</div><img src='images/RVEPINNs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-scale modeling in thermal conductivity of Polyurethane incorporated with Phase Change Materials using Physics-Informed Neural Networks](https://arxiv.org/pdf/2307.16785.pdf)
+
+Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
+
+[**Project**](https://arxiv.org/abs/2307.16785) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a hierarchical multi-scale model utilizing Physics-Informed Neural Networks (PINNs).
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
