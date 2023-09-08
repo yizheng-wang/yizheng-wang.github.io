@@ -27,7 +27,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2023.08*: &nbsp;🎉🎉 Complete [my second paper](https://arxiv.org/abs/2302.01538) and submit to CMAME!
 - *2023.08*: &nbsp;🎉🎉 I have an oral presentation at [CCCM2023](http://www.cccm2023.org/) conference!
 - *2023.07*: &nbsp;🎉🎉 I coorperate with my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) for [the combination between RVE and PINNs](https://arxiv.org/abs/2307.16785).
-- *2023.07*: &nbsp;🎉🎉 I participate in ([DACOMA-23](http://dacoma.org.cn/)) conference and meet with Prof. Rabczuk!
+- *2023.07*: &nbsp;🎉🎉 I participate in [DACOMA-23](http://dacoma.org.cn/) conference and meet with Prof. Rabczuk!
 - *2023.05*: &nbsp;🎉🎉 I participate in [DDCM2023](https://www.d-dcm.cn/) and have an oral presentation!
 - *2023.03*: &nbsp;🎉🎉 [BINN](https://www.sciencedirect.com/science/article/pii/S0045782523001366) is accepted by CMAME!
 - *2022.11*: &nbsp;🎉🎉 I join Microsoft Research as a Research Assistant for [AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)!
