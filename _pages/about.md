@@ -80,20 +80,29 @@ Jia Sun, Yinghua Liu, **Yizheng Wang**, Zhenhan Yao, and Xiaoping Zheng
 Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 
 [**Project**](https://arxiv.org/abs/2307.16785) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a hierarchical multi-scale model utilizing Physics-Informed Neural Networks (PINNs).
+- We propose a hierarchical multi-scale model RVE utilizing Physics-Informed Neural Networks (PINNs).
 </div>
 </div>
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022.09* I participate in ([DACOMA-22](http://dacoma.org.cn/)) and win the best paper award!
+- *2022.01* The team ranked 18th out of 3537 in the Public Board of 2021 Kaggle Competition!
+- *2020.06* Won the 12th place in the 2020 Baidu Star Developer Competition (out of 2,312 teams)!
+- *2019.09 - 2022.06* Participated in the John Ma Cup of Tsinghua University 6 times, 5 times in the top 8 of the school!
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.08 - future*, Ph.D in Department of Engineering Mechanics, Tsinghua University
+- *2019.08 - 2022.06*, Master in Department of Engineering Mechanics, Tsinghua University
+- *2012.08 - 2016.06*, Bachelor from College of Air Traffic Management, Civil Aviation University of China in Tianjing
 # 💬 Conference
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.08*, [CCCM2023](http://www.cccm2023.org/), Dalian, China: Yizheng Wang, and Yinghua Liu. “Deep energy method based on the principle of possible work” Oral Presentation at “Artificial Intelligence and Its Applications in Computational Mechanics”.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07*, [DACOMA-23](http://dacoma.org.cn/), Beijing, China: only participate
+
+- *2023.05*, [DDCM2023](https://www.d-dcm.cn/), Dalian, China: Yizheng Wang, and Yinghua Liu. “A deep complementary energy method for solid mechanics using minimum complementary energy principle.” Oral Presentation at “Data-driven numerical simulation of complex mechanical behavior.”
+
+- *2022.09*, [DACOMA-22](http://dacoma.org.cn/), Beijing, China: Yizheng Wang. “Solving Partial Differential Equations of Solid Mechanics Based on PINN.”  Won “Best Paper Awards” (Master’s Thesis Supervised by Prof. Yinghua Liu)
+
+- *2022.07*, [WCCM2022](https://www.wccm2022.org/), Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.”
+# 💻 PROFESSIONAL EXPERIENCE
+- *2022.11 - 2023.07*, Research Assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
+- *2020.06 - 2020.08*, Research Assistant at Shanxi Intelligence Institute of Big Data Technology and Innovation (SIBD) , Taiyuan, China.
+- *2016.09 - 2018.05*, Flight Dispatcher at Zhejiang Loong Airlines Co., Ltd., Xiaoshan, China.
