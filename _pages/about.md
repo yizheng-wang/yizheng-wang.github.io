@@ -33,7 +33,7 @@ I am majoring in solid mechanics and has rich experience in physical theory, com
 - *2022.11*: &nbsp;🎉🎉 I join Microsoft Research as a Research Assistant for [AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)!
 - *2022.09*: &nbsp;🎉🎉 I participate in ([DACOMA-22](http://dacoma.org.cn/)) and win the best paper award!
 - *2022.08*: &nbsp;🎉🎉 [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096) is accepted by CMAME!
-- *2022.06*: &nbsp;🎉🎉 I receive my master degredd from Tsinghua University!
+- *2022.06*: &nbsp;🎉🎉 I receive my master degree from Tsinghua University!
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/CENN.png' alt="sym" width="100%"></div></div>
