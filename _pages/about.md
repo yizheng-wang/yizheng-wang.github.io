@@ -23,6 +23,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
+- *2023.11*: &nbsp;🎉🎉 [the combination between RVE and PINNs](https://arxiv.org/abs/2307.16785) is accepted by [Renewable Energy](https://www.sciencedirect.com/journal/renewable-energy)
 - *2023.09*: &nbsp;🎉🎉 Past PH.D. program in Tsinghua University! I will come to be a first-year Ph.D in Stepember, 2024.
 - *2023.08*: &nbsp;🎉🎉 Complete [my second paper](https://arxiv.org/abs/2302.01538) and submit to CMAME!
 - *2023.08*: &nbsp;🎉🎉 I have an oral presentation at [CCCM2023](http://www.cccm2023.org/) conference!
@@ -59,6 +60,18 @@ Jia Sun, Yinghua Liu, **Yizheng Wang**, Zhenhan Yao, and Xiaoping Zheng
 - Combine boundary element method with PINNs for the first time. 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Renewable Energy</div><img src='images/RVEPINNs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-scale modeling in thermal conductivity of Polyurethane incorporated with Phase Change Materials using Physics-Informed Neural Networks](https://arxiv.org/abs/2307.16785)
+
+Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
+
+[**PDF**](https://arxiv.org/pdf/2307.16785.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a hierarchical multi-scale model RVE utilizing Physics-Informed Neural Networks (PINNs).
+</div>
+</div>
 # 📝 Under Review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,17 +85,7 @@ Jia Sun, Yinghua Liu, **Yizheng Wang**, Zhenhan Yao, and Xiaoping Zheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Renewable Energy</div><img src='images/RVEPINNs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Multi-scale modeling in thermal conductivity of Polyurethane incorporated with Phase Change Materials using Physics-Informed Neural Networks](https://arxiv.org/abs/2307.16785)
-
-Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
-
-[**PDF**](https://arxiv.org/pdf/2307.16785.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a hierarchical multi-scale model RVE utilizing Physics-Informed Neural Networks (PINNs).
-</div>
-</div>
 # 🎖 Honors and Awards
 - *2022.09* I participate in ([DACOMA-22](http://dacoma.org.cn/)) and win the best paper award!
 - *2022.01* The team ranked 18th out of 3537 in the Public Board of 2021 Kaggle Competition!
