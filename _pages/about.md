@@ -85,9 +85,9 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 </div>
 # 🎖 Honors and Awards
 - *2022.09* I participate in ([DACOMA-22](http://dacoma.org.cn/)) and win the best paper award!
-- *2022.01* The team ranked 18th out of 3537 in the Public Board of 2021 Kaggle Competition!
-- *2020.06* Won the 12th place in the 2020 Baidu Star Developer Competition (out of 2,312 teams)!
-- *2019.09 - 2022.06* Participated in the John Ma Cup of Tsinghua University 6 times, 5 times in the top 8 of the school!
+- *2022.01* My team placed 18th out of 3537 contestants in the 2021 Kaggle Competition Public Committee (I was the first author)!
+- *2020.06* My team won the 12th place in the 2020 Baidu Star Developer Competition (out of 2,312 teams)!
+- *2019.09 - 2022.06* I participated in the John Ma Cup of Tsinghua University in total 6 times, and won 5 times in the top 8 of the school!
 # 📖 Educations
 - *2024.08 - future*, Ph.D in Department of Engineering Mechanics, Tsinghua University, Beijing, China
 - *2019.08 - 2022.06*, Master in Department of Engineering Mechanics, Tsinghua University, Beijing, China
