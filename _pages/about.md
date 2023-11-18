@@ -64,7 +64,7 @@ Jia Sun, Yinghua Liu, **Yizheng Wang**, Zhenhan Yao, and Xiaoping Zheng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Renewable Energy</div><img src='images/RVEPINNs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-scale modeling in thermal conductivity of Polyurethane incorporated with Phase Change Materials using Physics-Informed Neural Networks](https://arxiv.org/abs/2307.16785)
+[Multi-scale modeling in thermal conductivity of Polyurethane incorporated with Phase Change Materials using Physics-Informed Neural Networks](https://www.sciencedirect.com/science/article/pii/S0960148123014805)
 
 Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 
@@ -73,7 +73,7 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 </div>
 </div>
 # 📝 Under Review
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCP</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A deep complementary energy method for solid mechanics using minimum complementary energy principle](https://arxiv.org/abs/2302.01538)
