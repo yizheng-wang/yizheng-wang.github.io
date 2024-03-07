@@ -23,6 +23,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
+- *2024.02*: I Complete the paper using FNO for homogenization and submit to Nature Machine Intelligence!
+- *2024.01*: I coorperate with my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) for [using FNO in multi-scale of RVE](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702962).
 - *2023.11*: Coorperate with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) for his paper about some numericial phenomonons in Deep Energy Methods. Let's keep us fingers crossed.
 - *2023.11*: &nbsp;🎉🎉 [the combination between RVE and PINNs](https://pdf.sciencedirectassets.com/271431/1-s2.0-S0960148123X00196/1-s2.0-S0960148123014805/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCGPiPExsafCYck0hwV4UYUnRvrhcPYHf8fUX6uNlz9%2BQIgRX%2BJJuQ7OHfxR7NNqlsppgPIqmea9szwR0ej5k2KoegqswUIPBAFGgwwNTkwMDM1NDY4NjUiDItSIooCZ2TK6LIdNyqQBa4oxASchKo2sMsxACAikWGAy9UqwSkCa%2Fh%2FtaWM%2BHQBu0GDpC1daRfX%2Bc4v8GmUjryWl2nil6cI5Oq3ZiYVmOl27JpXIkjAQHeR93gkcobFJwhhTfztqxb3byFoxRiKS542xE%2BcZFKez7qbdKy62sDdusa607RLcGLuFzqfahr0%2BZOJ6aI%2Fw6WGSnRSWgOlXREhl03ljozCKeDyYvTLg6WkAXlEyUg5ryuh6x5qdF2mNlOk%2F9Zf5PYoki2FiBRLXxdcnxCePz75V%2B%2BoEfVNcLwFpRF17OpBo%2BKTXlJYvAy9ch1ijZXM8b2KtwP8h52zkwRKWeXKXo9USR57hVgE%2BfZsLb5zmiFMSP972S1gP7z0KZ5pwqs0UYMFA%2BVY%2FXboqof0xhW2Zzd8IXFlr2ZB7VDusIb2M%2FdUWz93vZCsTNUykG%2BXdyZs%2Fc54r3WzX7pfQsfKW1zLUPX6moKG4eVKQV2aiMTguWKzp7X07qQQkf8Fss5CiQI%2BrH2i9esS146QljLsSBLVgm8%2BrVBG59Hn3G7LjJho44YIvyY%2B21pdXXnJVPs8pTSSY2CnI0EyCw%2FiAM5wD3HtHCVhDxFRXx1rRFLTDGD5Mbf4D5IsKKMXL2PPmQsKHYrwQLrJXChgmhU8ON2lTffJAhZqmI51C675yfcPGMlV8DLrVnDxgMH7q%2Fu73renpuZ2Xp9jPNn6u0zoUXyQKGPga57lTMiG8FJk8zy7W62sTOLji5ogLBZDaJ3srpknPxiG%2B0ciZDabEmMK3eNUGti8LqXF8ZO6PekH1L7y2xbcmpk%2B0r78KJcw3VnYuJXKCxKB4m%2F05s%2FVxpRfK7eur5YoL8mLyMtBZmbbrtxA9DDLv6Xry8BhRE7PekOeMNSE%2B6oGOrEBqFPDEUfllcxnKTSejLkpOplnMcOTZ%2Fb7s01ZKOn4XhjzgqALyk3sHQaOvaIElj5m7i1030MDc2cKtxsrgzowAtgl%2BdMBK5H%2FfxfwE4hgNy9Dc3K4d%2B%2Fiz%2FKtZ0lcw%2FdZslyDoQmAPRXlel00xUoXX6GWRwkQp2YcLN3k%2B%2FTS3%2FJV5SRn2hyrt5v%2FiWalPATcNbxlV6xfCabaecTlWklUTWPKoNrmjZYQMbNIclLpbwod&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231123T040029Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5XU4IVEI%2F20231123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b9ff16e24c6c9739240dc98f82bb5fbd55b71f11216056a63be4cbaafb6487b1&hash=d2ba3638d0d62160908de45b8e0b8ad3bc53ab07b13aaa7e6c0837a20fb6c8ed&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0960148123014805&tid=spdf-680021b1-d695-413f-a615-e6396882c9b6&sid=cb9109d15d8c834d564bfab280d72f9ed36fgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f155e550f595a50555903&rr=82a68168b887ad51&cc=us) is accepted by [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148123014805)
 - *2023.09*: &nbsp;🎉🎉 Past PH.D. program in Tsinghua University! I will come to be a first-year Ph.D in Stepember, 2024.
@@ -74,7 +76,7 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 </div>
 </div>
 # 📝 Under Review
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCP</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJNME</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A deep complementary energy method for solid mechanics using minimum complementary energy principle](https://arxiv.org/abs/2302.01538)
@@ -83,6 +85,32 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 
 [**PDF**](https://arxiv.org/pdf/2302.01538.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  We propose the deep complementary energy method (DCEM) based on the principle of minimum complementary energy for the first time.   DCEM outperforms DEM in terms of stress accuracy and efficiency and has an advantage in dealing with complex displacement boundary conditions. A deep complementary energy operator method (DCEM-O) by combining operator learning with physical equations is proposed.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HomoGenius: a Foundation Model of Homogenization for Rapid Prediction of Effective Mechanical Properties using Neural Operators]
+
+**Yizheng Wang**, Xiang Li, Ziming Yan, Jinshuai Bai, Bokai Liu, Timon Rabczuk, and Yinghua Liu
+
+[**PDF**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose a numerical homogenization model based on operator learning: HomoGenius.  The proposed model can quickly provide homogenization results for arbitrary geometries, materials, and resolutions, increasing the efficiency by a factor of 80 compared to traditional numerical homogenization methods.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy</div><img src='images/multi_FNO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Learning-Based Multi-Scale Modeling of Thermal Conductivity in Polyurethane with Phase Change Materials via Neural Operators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702962)
+
+**Bokai Liu**, **Yizheng Wang**, Yinghua Liu, Kailun Feng, Timon Rabczuk, and Thomas Olofsson
+
+[**PDF**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702962) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  **<>**: These authors contributed equally to this work. 
+We propose a hierarchical multi-scale model utilizing Deep learning-based Neural Operators. This model enables precise prediction and analysis of the material’s thermal conductivity at both the fine-scale and coarse-scale, from nano to macro scales.
 </div>
 </div>
 
