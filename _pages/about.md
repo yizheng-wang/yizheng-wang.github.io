@@ -23,6 +23,13 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
+- *2024.06*: I finish [KINN](https://arxiv.org/abs/2406.11045) and submit to CMAME!
+- *2024.06*: I get the [recommendation letter](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/Recommendation-Yizheng.pdf)  from big name [Timon Rabczuk](https://scholar.google.com/citations?user=3CBuGosAAAAJ&hl=en&oi=ao)!
+- *2024.06*: The paper with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) is accepted by CMAME.
+- *2024.05*: I finish the review paper (AI4PDEs in solid mechanics) and submit to a Chinese Journal!
+- *2024.05*: I go to the [Xiaoying Zhuang](https://scholar.google.com/citations?user=EejXDPEAAAAJ&hl=en&oi=ao) group, and have a [presentation](https://www.iop.uni-hannover.de/de/nachrichten/news/news-details/news/phd-candidate-yizheng-wang-joined-the-group-seminar-and-gived-a-presentation-ai-for-pdes-in-computational-mechanics)!
+- *2024.04*: I go to German, and join the [Timon Rabczuk](https://scholar.google.com/citations?user=3CBuGosAAAAJ&hl=en&oi=ao) group!
+- *2024.03*: I attend [Conference of Chinese Solid Mechanics](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/), and served as a moder!
 - *2024.02*: I Complete the paper using FNO for homogenization and submit to [Nature Machine Intelligence](https://www.researchsquare.com/article/rs-3994416/v1)!
 - *2024.01*: I coorperate with my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) for [using FNO in multi-scale of RVE](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702962).
 - *2023.11*: Coorperate with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) for his paper about some numericial phenomonons in Deep Energy Methods. Let's keep us fingers crossed.
@@ -39,7 +46,6 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2022.08*: &nbsp;🎉🎉 [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096) is accepted by CMAME!
 - *2022.06*: &nbsp;🎉🎉 I receive my master degree from Tsinghua University!
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/CENN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,6 +82,18 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 </div>
 </div>
 # 📝 Under Review
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/KINN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving PDEs based on Kolmogorov Arnold Networks](https://arxiv.org/abs/2406.11045)
+
+**Yizheng Wang**, Jia Sun, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
+
+[**PDF**](https://arxiv.org/pdf/2406.11045) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We propose different PDE forms based on KAN instead of MLP, termed Kolmogorov-Arnold-Informed Neural Network (KINN). We systematically compare MLP and KAN in various numerical examples of PDEs, including multi-scale, singularity, stress concentration, nonlinear hyperelasticity, heterogeneous, and complex geometry problems. Our results demonstrate that KINN significantly outperforms MLP in terms of accuracy and convergence speed for numerous PDEs in computational solid mechanics, except for the complex geometry problem. This highlights KINN's potential for more efficient and accurate PDE solutions in AI for PDEs.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJNME</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
