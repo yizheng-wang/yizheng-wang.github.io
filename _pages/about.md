@@ -29,7 +29,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2024.05*: &nbsp;🎉🎉 I finish the review paper (AI4PDEs in solid mechanics) and submit to a Chinese Journal!
 - *2024.05*: &nbsp;🎉🎉 I go to the [Xiaoying Zhuang](https://scholar.google.com/citations?user=EejXDPEAAAAJ&hl=en&oi=ao) group, and have a [presentation](https://www.iop.uni-hannover.de/de/nachrichten/news/news-details/news/phd-candidate-yizheng-wang-joined-the-group-seminar-and-gived-a-presentation-ai-for-pdes-in-computational-mechanics)!
 - *2024.04*: &nbsp;🎉🎉 I go to German, and join the [Timon Rabczuk](https://scholar.google.com/citations?user=3CBuGosAAAAJ&hl=en&oi=ao) group!
-- *2024.03*: &nbsp;🎉🎉 I attend [Conference of Chinese Solid Mechanics](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/), and served as a moder!
+- *2024.03*: &nbsp;🎉🎉 I attend [Conference of Chinese Solid Mechanics](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/), and served as a host!
 - *2024.02*: &nbsp;🎉🎉 I Complete the paper using FNO for homogenization and submit to [Nature Machine Intelligence](https://www.researchsquare.com/article/rs-3994416/v1)!
 - *2024.01*: &nbsp;🎉🎉 I coorperate with my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) for [using FNO in multi-scale of RVE](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702962).
 - *2023.11*: &nbsp;🎉🎉 Coorperate with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) for his [paper](https://www.sciencedirect.com/science/article/pii/S0045782524004158?via%3Dihub) about some numericial phenomonons in Deep Energy Methods. Let's keep us fingers crossed.
@@ -155,15 +155,17 @@ We propose a hierarchical multi-scale model utilizing Deep learning-based Neural
 - *2019.08 - 2022.06*, Master in Department of Engineering Mechanics, Tsinghua University, Beijing, China
 - *2012.08 - 2016.06*, Bachelor from College of Air Traffic Management, Civil Aviation University of China, Tianjin, China
 # 💬 Conference
-- *2023.08*, [CCCM2023](http://www.cccm2023.org/), Dalian, China: Yizheng Wang, and Yinghua Liu. “Deep energy method based on the principle of possible work” Oral Presentation at “Artificial Intelligence and Its Applications in Computational Mechanics”.
+- *2024.04*, [CCSM2024](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/), Nanjing, China: Yizheng Wang, and Yinghua Liu. “AI for PDEs in solid mechanics”. (Oral presentation and host in computaiontal solid mechanics)
+
+- *2023.08*, [CCCM2023](http://www.cccm2023.org/), Dalian, China: Yizheng Wang, and Yinghua Liu. “Deep energy method based on the principle of possible work” Oral Presentation at “Artificial Intelligence and Its Applications in Computational Mechanics”. (Oral presentation)
 
 - *2023.07*, [DACOMA-23](http://dacoma.org.cn/), Beijing, China: only participate
 
-- *2023.05*, [DDCM2023](https://www.d-dcm.cn/), Dalian, China: Yizheng Wang, and Yinghua Liu. “A deep complementary energy method for solid mechanics using minimum complementary energy principle.” Oral Presentation at “Data-driven numerical simulation of complex mechanical behavior.”
+- *2023.05*, [DDCM2023](https://www.d-dcm.cn/), Dalian, China: Yizheng Wang, and Yinghua Liu. “A deep complementary energy method for solid mechanics using minimum complementary energy principle.”  (Oral presentation)
 
-- *2022.09*, [DACOMA-22](http://dacoma.org.cn/), Beijing, China: Yizheng Wang. “Solving Partial Differential Equations of Solid Mechanics Based on PINN.”  Won “Best Paper Awards” (Master’s Thesis Supervised by Prof. Yinghua Liu)
+- *2022.09*, [DACOMA-22](http://dacoma.org.cn/), Beijing, China: Yizheng Wang. “Solving Partial Differential Equations of Solid Mechanics Based on PINN.”  Won “Best Paper Awards” (Master’s Thesis Supervised by Prof. Yinghua Liu) (Oral presentation)
 
-- *2022.07*, [WCCM2022](https://www.wccm2022.org/), Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.”
+- *2022.07*, [WCCM2022](https://www.wccm2022.org/), Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.” (Oral presentation)
 # 💻 PROFESSIONAL EXPERIENCE
 - *2022.11 - 2023.07*, Research Assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
 - *2020.06 - 2020.08*, Research Assistant at [Shanxi Intelligence Institute of Big Data Technology and Innovation (SIBD)](https://www.sibd.org.cn/) , Taiyuan, China.
