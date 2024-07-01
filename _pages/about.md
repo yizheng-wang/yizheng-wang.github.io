@@ -167,6 +167,7 @@ We propose a hierarchical multi-scale model utilizing Deep learning-based Neural
 
 - *2022.07*, [WCCM2022](https://www.wccm2022.org/), Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.” (Oral presentation)
 # 💻 PROFESSIONAL EXPERIENCE
+- *2023.09 - 2024.08*, Guest Researcher supervised by [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en), Weimar, Germany.
 - *2022.11 - 2023.07*, Research Assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
 - *2020.06 - 2020.08*, Research Assistant at [Shanxi Intelligence Institute of Big Data Technology and Innovation (SIBD)](https://www.sibd.org.cn/) , Taiyuan, China.
 - *2016.07 - 2018.05*, Flight Dispatcher at [Zhejiang Loong Airlines Co., Ltd.](https://en.wikipedia.org/wiki/Loong_Air), Xiaoshan, China.
