@@ -119,7 +119,7 @@ Jinshuai Bai, Gui-Rong Liu, Timon Rabczuk, **Yizheng Wang**, Xi-Qiao Feng, YuanT
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HomoGenius: a Foundation Model of Homogenization for Rapid Prediction of Effective Mechanical Properties using Neural Operators](https://www.researchsquare.com/article/rs-3994416/v1)
