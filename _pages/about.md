@@ -93,6 +93,19 @@ Jinshuai Bai, Gui-Rong Liu, Timon Rabczuk, **Yizheng Wang**, Xi-Qiao Feng, YuanT
 - We proposed a robust radial point interpolation method empowered with neural network solvers (RPIM-NNS) for solving highly nonlinear solid mechanics problems.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advances in Mechanics</div><img src='images/AI4PDEs_solid_meh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AI for PDEs in solid mechanics: A review](https://lxjz.cstam.org.cn/cn/article/id/aa8f9d5c-5e44-46d0-843a-95a2495caed9)
+
+**Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+
+[**PDF**](https://lxjz.cstam.org.cn/cn/article/id/aa8f9d5c-5e44-46d0-843a-95a2495caed9) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We review AI for PDEs in solid mechanics.
+</div>
+</div>
+
 # 📝 Under Review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/KINN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
