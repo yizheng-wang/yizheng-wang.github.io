@@ -23,6 +23,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 The paper [AI for PDEs in solid mechanics: A review](https://lxjz.cstam.org.cn/cn/article/id/aa8f9d5c-5e44-46d0-843a-95a2495caed9) is accepted by Advances in Mechanics!
 - *2024.06*: &nbsp;🎉🎉 I finish [KINN](https://arxiv.org/abs/2406.11045) and submit to CMAME!
 - *2024.06*: &nbsp;🎉🎉 I get the [recommendation letter](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/Recommendation-Yizheng.pdf)  from big name [Timon Rabczuk](https://scholar.google.com/citations?user=3CBuGosAAAAJ&hl=en&oi=ao)!
 - *2024.06*: &nbsp;🎉🎉 The [paper](https://www.sciencedirect.com/science/article/pii/S0045782524004158?via%3Dihub) with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) is accepted by CMAME.
@@ -46,6 +47,18 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2022.08*: &nbsp;🎉🎉 [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096) is accepted by CMAME!
 - *2022.06*: &nbsp;🎉🎉 I receive my master degree from Tsinghua University!
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advances in Mechanics</div><img src='images/AI4PDEs_solid_meh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AI for PDEs in solid mechanics: A review](https://lxjz.cstam.org.cn/cn/article/id/aa8f9d5c-5e44-46d0-843a-95a2495caed9)
+
+**Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+
+[**PDF**](https://lxjz.cstam.org.cn/cn/article/id/aa8f9d5c-5e44-46d0-843a-95a2495caed9) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We review AI for PDEs in solid mechanics.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/CENN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,17 +107,7 @@ Jinshuai Bai, Gui-Rong Liu, Timon Rabczuk, **Yizheng Wang**, Xi-Qiao Feng, YuanT
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advances in Mechanics</div><img src='images/AI4PDEs_solid_meh.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[AI for PDEs in solid mechanics: A review](https://lxjz.cstam.org.cn/cn/article/id/aa8f9d5c-5e44-46d0-843a-95a2495caed9)
-
-**Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
-
-[**PDF**](https://lxjz.cstam.org.cn/cn/article/id/aa8f9d5c-5e44-46d0-843a-95a2495caed9) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We review AI for PDEs in solid mechanics.
-</div>
-</div>
 
 # 📝 Under Review
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/KINN.png' alt="sym" width="100%"></div></div>
