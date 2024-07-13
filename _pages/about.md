@@ -162,6 +162,7 @@ We propose a hierarchical multi-scale model utilizing Deep learning-based Neural
 
 
 # 🎖 Honors and Awards
+- *2024.05* Future Scholar at Tsinghua University (清华大学未来学者)！
 - *2022.09* I participate in ([DACOMA-22](http://dacoma.org.cn/)) and win the best paper award!
 - *2022.01* My team placed 18th out of 3537 contestants in the 2021 Kaggle Competition Public Committee (I was the first author)!
 - *2020.06* My team won the 12th place in the 2020 Baidu Star Developer Competition (out of 2,312 teams)!
