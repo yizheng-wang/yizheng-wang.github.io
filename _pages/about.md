@@ -97,6 +97,18 @@ Jia Sun, Yinghua Liu, **Yizheng Wang**, Zhenhan Yao, and Xiaoping Zheng
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/RPIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A robust radial point interpolation method empowered with neural network solvers (RPIM-NNS) for nonlinear solid mechanics](https://www.sciencedirect.com/science/article/pii/S0045782524004158?via%3Dihub)
+
+Jinshuai Bai, Gui-Rong Liu, Timon Rabczuk, **Yizheng Wang**, Xi-Qiao Feng, YuanTong Gu
+
+[**PDF**](https://pdf.sciencedirectassets.com/271868/1-s2.0-S0045782524X00109/1-s2.0-S0045782524004158/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEYaCXVzLWVhc3QtMSJIMEYCIQDjd9C7dit4VQbVEPsJ2EAy9I6Kothmp4T4cMD%2FeBWs8wIhAPz0Xb5yYE%2BgwW0iX4H4yOPhhQ5M3GJXSdrYbPnFo%2Fd4KrsFCO%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgwPArtI%2B37iC1%2FKYysqjwVWhcvxqEXHppuVXxpqXzUJRbr40TEAtKSRpPoCAf2tCbNvciKla%2BHmZGd3WYLvUrSSjv%2BEF2q0rhW3dG2yEBz2gWWgtxggEYRrgfFoE1QWog0ay%2BXTdZ%2Bo83r9SM84UA8CdpsXnW1B%2FuOx%2F7RArE7JcgVRPfLx%2FDoxryjhnNdTeCMoERpaIeBvrxF27wrPpCByMUnjYqeby%2FyRdFgKth7b%2F8RyeHmxk7lY9RqdIHUedHiX4yKi%2BujHmMMNXmBkidO%2BUygWDDwL47bYxHcoClzM%2BQV%2FD6Nk0X0AoWVhQ5X8GyvqUJElriIQXXNBvSyLCw%2BtL0Nt4gGsEE%2FjhBhzHTwSdOV4RDwlWb5AKqjZ3gi%2F5xESNqlatU8CGzWpEMe1spkESsQFlChnNBByZfKOjuwkQjnRZzSXm%2BaqvOPKWsz%2ByovV%2BBSEMw6HSsKuWzAA7ZaK%2F5zuib%2BiiRuPXJeZ08N9edAMbXik0j34kT83Jjw%2B8A8BTAtc7yqGKvRF6SX9kauGLrBZSIcX7%2BNhvvguWtKI5GaPcDr7WSLxVuHHvTmoLnvRv61RlSQJwexP0e8XBvi0XSvNjKggSaC0YocNJGyfvBEDcDPqbxF5tcH1FMrSd%2FntRmrX2Pzc7dJ2SH0jz2OHIKtFO5GOIGMvEFyYev9JdqXIAI%2Fq%2F09AJv02dwrD6WO1bw3hEQ0O9hWo%2BsRR10K48qMLR5t2qXYtI1XiKcD0MZPN3FnJOmSkFX7LT0DcXlqqE%2BdW2FDwLXCf0ExIGYcJoAsiPnp1pUR08aDIDQ6%2FKQdzxo0tUINC2oLajMDHQBO%2FRWIR2f4898Ra9RdKM2uj70BA9Ldw58OrdcGKFc2Hr0bdmzQYWfGciAiZU2SRMPPh9bMGOrABOQLSXdE135nbYGkFVjfrgWoI9FwwPja9l14beh3I5079Uun6MD14LpBs%2B9ixvYKTFxZMCgZUJ%2BQaBIgRgkIabFuTSKhU1GRqB5un3rLSpCulnLR1AqcEmYyNB7AZ5XM64LhZtVOkDt9XiZ%2FkzTJb%2BbQzQMTLQsxQUIyykFuE3V7ydCqd1O%2BFvVx15mbdTUrrOVwkn38lpkw1J4M25H69uu7eNiBx6ZlhKOwtHOXm6ig%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240627T151753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5GYNWCGS%2F20240627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3c64b0e8c0115bf88b28fd057285aa452f691ea0ee529251f7a23de2e203f3c1&hash=c777003c92a315d05d9ba99e2b65785a2fcfeca0c5705c7bc1f310cb63ad3760&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0045782524004158&tid=spdf-1f846dc2-c8c1-4453-9d34-ab9a2cfc541f&sid=4fb4a6a34ad9b745ec591d56e0efbb573fa7gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=00025e58035159575e&rr=89a6680e99fe9f38&cc=de) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We proposed a robust radial point interpolation method empowered with neural network solvers (RPIM-NNS) for solving highly nonlinear solid mechanics problems.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Renewable Energy</div><img src='images/RVEPINNs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -109,17 +121,7 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/RPIM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[A robust radial point interpolation method empowered with neural network solvers (RPIM-NNS) for nonlinear solid mechanics](https://www.sciencedirect.com/science/article/pii/S0045782524004158?via%3Dihub)
-
-Jinshuai Bai, Gui-Rong Liu, Timon Rabczuk, **Yizheng Wang**, Xi-Qiao Feng, YuanTong Gu
-
-[**PDF**](https://pdf.sciencedirectassets.com/271868/1-s2.0-S0045782524X00109/1-s2.0-S0045782524004158/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEYaCXVzLWVhc3QtMSJIMEYCIQDjd9C7dit4VQbVEPsJ2EAy9I6Kothmp4T4cMD%2FeBWs8wIhAPz0Xb5yYE%2BgwW0iX4H4yOPhhQ5M3GJXSdrYbPnFo%2Fd4KrsFCO%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgwPArtI%2B37iC1%2FKYysqjwVWhcvxqEXHppuVXxpqXzUJRbr40TEAtKSRpPoCAf2tCbNvciKla%2BHmZGd3WYLvUrSSjv%2BEF2q0rhW3dG2yEBz2gWWgtxggEYRrgfFoE1QWog0ay%2BXTdZ%2Bo83r9SM84UA8CdpsXnW1B%2FuOx%2F7RArE7JcgVRPfLx%2FDoxryjhnNdTeCMoERpaIeBvrxF27wrPpCByMUnjYqeby%2FyRdFgKth7b%2F8RyeHmxk7lY9RqdIHUedHiX4yKi%2BujHmMMNXmBkidO%2BUygWDDwL47bYxHcoClzM%2BQV%2FD6Nk0X0AoWVhQ5X8GyvqUJElriIQXXNBvSyLCw%2BtL0Nt4gGsEE%2FjhBhzHTwSdOV4RDwlWb5AKqjZ3gi%2F5xESNqlatU8CGzWpEMe1spkESsQFlChnNBByZfKOjuwkQjnRZzSXm%2BaqvOPKWsz%2ByovV%2BBSEMw6HSsKuWzAA7ZaK%2F5zuib%2BiiRuPXJeZ08N9edAMbXik0j34kT83Jjw%2B8A8BTAtc7yqGKvRF6SX9kauGLrBZSIcX7%2BNhvvguWtKI5GaPcDr7WSLxVuHHvTmoLnvRv61RlSQJwexP0e8XBvi0XSvNjKggSaC0YocNJGyfvBEDcDPqbxF5tcH1FMrSd%2FntRmrX2Pzc7dJ2SH0jz2OHIKtFO5GOIGMvEFyYev9JdqXIAI%2Fq%2F09AJv02dwrD6WO1bw3hEQ0O9hWo%2BsRR10K48qMLR5t2qXYtI1XiKcD0MZPN3FnJOmSkFX7LT0DcXlqqE%2BdW2FDwLXCf0ExIGYcJoAsiPnp1pUR08aDIDQ6%2FKQdzxo0tUINC2oLajMDHQBO%2FRWIR2f4898Ra9RdKM2uj70BA9Ldw58OrdcGKFc2Hr0bdmzQYWfGciAiZU2SRMPPh9bMGOrABOQLSXdE135nbYGkFVjfrgWoI9FwwPja9l14beh3I5079Uun6MD14LpBs%2B9ixvYKTFxZMCgZUJ%2BQaBIgRgkIabFuTSKhU1GRqB5un3rLSpCulnLR1AqcEmYyNB7AZ5XM64LhZtVOkDt9XiZ%2FkzTJb%2BbQzQMTLQsxQUIyykFuE3V7ydCqd1O%2BFvVx15mbdTUrrOVwkn38lpkw1J4M25H69uu7eNiBx6ZlhKOwtHOXm6ig%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240627T151753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5GYNWCGS%2F20240627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3c64b0e8c0115bf88b28fd057285aa452f691ea0ee529251f7a23de2e203f3c1&hash=c777003c92a315d05d9ba99e2b65785a2fcfeca0c5705c7bc1f310cb63ad3760&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0045782524004158&tid=spdf-1f846dc2-c8c1-4453-9d34-ab9a2cfc541f&sid=4fb4a6a34ad9b745ec591d56e0efbb573fa7gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=00025e58035159575e&rr=89a6680e99fe9f38&cc=de) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We proposed a robust radial point interpolation method empowered with neural network solvers (RPIM-NNS) for solving highly nonlinear solid mechanics problems.
-</div>
-</div>
 
 
 
