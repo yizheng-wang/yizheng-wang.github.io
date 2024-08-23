@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Yizheng Wang. I will be a Ph.D. student in Department of Engineering Mechanics, Tsinghua University (2024), supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) and [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en). I major in engineering mechanics, mainly doing computational solid mechanics and received my master’s degree supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) (2019-2022) from the Institute of Solid Mechanics (ISM), Department of Engineering Mechanics, Tsinghua University, and Bachelor's degree from Civil Aviation University of China in Tianjin. I also worked as a research assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) (2022-2023). I will come to Bauhaus University as a guest researcher in Weimar supervised by [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en) for AI for mechanics (2023-2024).
+Hi, my name is Yizheng Wang. I am a Ph.D. student in Department of Engineering Mechanics, Tsinghua University (2024-now), supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) and [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en). I major in engineering mechanics, mainly doing computational solid mechanics and received my master’s degree supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) (2019-2022) from the Institute of Solid Mechanics (ISM), Department of Engineering Mechanics, Tsinghua University, and Bachelor's degree from Civil Aviation University of China in Tianjin. I also worked as a research assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) (2022-2023). I have came to Bauhaus University as a guest researcher in Weimar supervised by [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en) for AI for mechanics (2023-2024).
 
 I am majoring in solid mechanics and have rich experience in physical theory, computation, and experiment. I mainly focus on solving Partial Differential Equations of solid mechanics based on the physics-informed neural networks(PINNs), operator learning and deep energy method. My research interest is AI4Science, specifically AI for mechanics.
 
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 I am enrolled as a Ph.D. student in Tsinghua University!
+- *2024.08*: &nbsp;🎉🎉 I have an oral presentation at [Seminar on Machine Learning and Methodology in Computational Mechanics2024](https://mlcm.dlut.edu.cn/Meeting/Data/List?mid=f9e9c1f1-e7f8-4445-8aa9-b0f4c3eae065&category=hyjs&page=1) conference!
 - *2024.07*: &nbsp;🎉🎉 The paper [DCEM](https://arxiv.org/pdf/2302.01538.pdf) is accepted by IJNME!
 - *2024.07*: &nbsp;🎉🎉 The paper [AI for PDEs in solid mechanics: A review](https://lxjz.cstam.org.cn/cn/article/id/aa8f9d5c-5e44-46d0-843a-95a2495caed9) is accepted by Advances in Mechanics!
 - *2024.06*: &nbsp;🎉🎉 I finish [KINN](https://arxiv.org/abs/2406.11045) and submit to CMAME!
@@ -166,6 +168,18 @@ We propose a hierarchical multi-scale model utilizing Deep learning-based Neural
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/DeepBeam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Learning-Based Multi-Scale Modeling of Thermal Conductivity in Polyurethane with Phase Change Materials via Neural Operators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4846935)
+
+Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, Yizheng Wang, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4846935) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We propose a deep learning framework using PINNs, DEM, and Operator learning (FNO: Fourier Nueral Operator) for the analysis of functionally graded (FG) porous beams.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.05* Future Scholar at Tsinghua University (清华大学未来学者)！
