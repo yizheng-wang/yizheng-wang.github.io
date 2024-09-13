@@ -53,7 +53,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJNME</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DCEM： A deep complementary energy method for solid mechanics using minimum complementary energy principle](https://arxiv.org/abs/2302.01538)
+[DCEM： A deep complementary energy method for solid mechanics using minimum complementary energy principle](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585)
 
 **Yizheng Wang**, Jia Sun, Timon Rabczuk, and Yinghua Liu
 
