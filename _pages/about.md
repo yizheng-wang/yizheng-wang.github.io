@@ -23,6 +23,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 The review paper about [AI FOR PDEs in computational mechanics](https://arxiv.org/abs/2410.19843) is on the Arxiv!
+- *2024.10*: &nbsp;🎉🎉 I participate in ([DACOMA-24](https://www.dacoma.org.cn/)) and win the best paper award again!
 - *2024.08*: &nbsp;🎉🎉 I am enrolled as a Ph.D. student in Tsinghua University!
 - *2024.08*: &nbsp;🎉🎉 I have an oral presentation at [Seminar on Machine Learning and Methodology in Computational Mechanics2024](https://mlcm.dlut.edu.cn/Meeting/Data/List?mid=f9e9c1f1-e7f8-4445-8aa9-b0f4c3eae065&category=hyjs&page=1) conference!
 - *2024.07*: &nbsp;🎉🎉 The paper [DCEM](https://arxiv.org/pdf/2302.01538.pdf) is accepted by IJNME!
@@ -34,7 +36,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2024.05*: &nbsp;🎉🎉 I go to the [Xiaoying Zhuang](https://scholar.google.com/citations?user=EejXDPEAAAAJ&hl=en&oi=ao) group, and have a [presentation](https://www.iop.uni-hannover.de/de/nachrichten/news/news-details/news/phd-candidate-yizheng-wang-joined-the-group-seminar-and-gived-a-presentation-ai-for-pdes-in-computational-mechanics)!
 - *2024.04*: &nbsp;🎉🎉 I go to German, and join the [Timon Rabczuk](https://scholar.google.com/citations?user=3CBuGosAAAAJ&hl=en&oi=ao) group!
 - *2024.03*: &nbsp;🎉🎉 I attend [Conference of Chinese Solid Mechanics](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/), and served as a host!
-- *2024.02*: &nbsp;🎉🎉 I Complete the paper using FNO for homogenization and submit to [Nature Machine Intelligence](https://www.researchsquare.com/article/rs-3994416/v1)!
+- *2024.02*: &nbsp;🎉🎉 I Complete the paper using FNO for homogenization and submit to [Computational Mechanics](https://www.researchsquare.com/article/rs-3994416/v1)!
 - *2024.01*: &nbsp;🎉🎉 I coorperate with my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) for [using FNO in multi-scale of RVE](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702962).
 - *2023.11*: &nbsp;🎉🎉 Coorperate with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) for his [paper](https://www.sciencedirect.com/science/article/pii/S0045782524004158?via%3Dihub) about some numericial phenomonons in Deep Energy Methods. Let's keep us fingers crossed.
 - *2023.11*:  &nbsp;🎉🎉 [the combination between RVE and PINNs](https://pdf.sciencedirectassets.com/271431/1-s2.0-S0960148123X00196/1-s2.0-S0960148123014805/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCGPiPExsafCYck0hwV4UYUnRvrhcPYHf8fUX6uNlz9%2BQIgRX%2BJJuQ7OHfxR7NNqlsppgPIqmea9szwR0ej5k2KoegqswUIPBAFGgwwNTkwMDM1NDY4NjUiDItSIooCZ2TK6LIdNyqQBa4oxASchKo2sMsxACAikWGAy9UqwSkCa%2Fh%2FtaWM%2BHQBu0GDpC1daRfX%2Bc4v8GmUjryWl2nil6cI5Oq3ZiYVmOl27JpXIkjAQHeR93gkcobFJwhhTfztqxb3byFoxRiKS542xE%2BcZFKez7qbdKy62sDdusa607RLcGLuFzqfahr0%2BZOJ6aI%2Fw6WGSnRSWgOlXREhl03ljozCKeDyYvTLg6WkAXlEyUg5ryuh6x5qdF2mNlOk%2F9Zf5PYoki2FiBRLXxdcnxCePz75V%2B%2BoEfVNcLwFpRF17OpBo%2BKTXlJYvAy9ch1ijZXM8b2KtwP8h52zkwRKWeXKXo9USR57hVgE%2BfZsLb5zmiFMSP972S1gP7z0KZ5pwqs0UYMFA%2BVY%2FXboqof0xhW2Zzd8IXFlr2ZB7VDusIb2M%2FdUWz93vZCsTNUykG%2BXdyZs%2Fc54r3WzX7pfQsfKW1zLUPX6moKG4eVKQV2aiMTguWKzp7X07qQQkf8Fss5CiQI%2BrH2i9esS146QljLsSBLVgm8%2BrVBG59Hn3G7LjJho44YIvyY%2B21pdXXnJVPs8pTSSY2CnI0EyCw%2FiAM5wD3HtHCVhDxFRXx1rRFLTDGD5Mbf4D5IsKKMXL2PPmQsKHYrwQLrJXChgmhU8ON2lTffJAhZqmI51C675yfcPGMlV8DLrVnDxgMH7q%2Fu73renpuZ2Xp9jPNn6u0zoUXyQKGPga57lTMiG8FJk8zy7W62sTOLji5ogLBZDaJ3srpknPxiG%2B0ciZDabEmMK3eNUGti8LqXF8ZO6PekH1L7y2xbcmpk%2B0r78KJcw3VnYuJXKCxKB4m%2F05s%2FVxpRfK7eur5YoL8mLyMtBZmbbrtxA9DDLv6Xry8BhRE7PekOeMNSE%2B6oGOrEBqFPDEUfllcxnKTSejLkpOplnMcOTZ%2Fb7s01ZKOn4XhjzgqALyk3sHQaOvaIElj5m7i1030MDc2cKtxsrgzowAtgl%2BdMBK5H%2FfxfwE4hgNy9Dc3K4d%2B%2Fiz%2FKtZ0lcw%2FdZslyDoQmAPRXlel00xUoXX6GWRwkQp2YcLN3k%2B%2FTS3%2FJV5SRn2hyrt5v%2FiWalPATcNbxlV6xfCabaecTlWklUTWPKoNrmjZYQMbNIclLpbwod&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231123T040029Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5XU4IVEI%2F20231123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b9ff16e24c6c9739240dc98f82bb5fbd55b71f11216056a63be4cbaafb6487b1&hash=d2ba3638d0d62160908de45b8e0b8ad3bc53ab07b13aaa7e6c0837a20fb6c8ed&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0960148123014805&tid=spdf-680021b1-d695-413f-a615-e6396882c9b6&sid=cb9109d15d8c834d564bfab280d72f9ed36fgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f155e550f595a50555903&rr=82a68168b887ad51&cc=us) is accepted by [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148123014805)
@@ -42,11 +44,11 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 - *2023.08*: &nbsp;🎉🎉 Complete [my second paper](https://arxiv.org/abs/2302.01538) and submit to CMAME!
 - *2023.08*: &nbsp;🎉🎉 I have an oral presentation at [CCCM2023](http://www.cccm2023.org/) conference!
 - *2023.07*: &nbsp;🎉🎉 I coorperate with my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) for [the combination between RVE and PINNs](https://arxiv.org/abs/2307.16785).
-- *2023.07*: &nbsp;🎉🎉 I participate in [DACOMA-23](http://dacoma.org.cn/) conference and meet with Prof. Rabczuk!
+- *2023.07*: &nbsp;🎉🎉 I participate in [DACOMA-23](https://www.dacoma.org.cn/) conference and meet with Prof. Rabczuk!
 - *2023.05*: &nbsp;🎉🎉 I participate in [DDCM2023](https://www.d-dcm.cn/) and have an oral presentation!
 - *2023.03*: &nbsp;🎉🎉 [BINN](https://www.sciencedirect.com/science/article/pii/S0045782523001366) is accepted by CMAME!
 - *2022.11*: &nbsp;🎉🎉 I join Microsoft Research as a Research Assistant for [AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)!
-- *2022.09*: &nbsp;🎉🎉 I participate in ([DACOMA-22](http://dacoma.org.cn/)) and win the best paper award!
+- *2022.09*: &nbsp;🎉🎉 I participate in ([DACOMA-22](https://www.dacoma.org.cn/)) and win the best paper award!
 - *2022.08*: &nbsp;🎉🎉 [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096) is accepted by CMAME!
 - *2022.06*: &nbsp;🎉🎉 I receive my master degree from Tsinghua University!
 # 📝 Publications 
@@ -128,6 +130,19 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 
 
 # 📝 Under Review
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/EAAI_AI4PDEs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Artificial intelligence for partial differential equations in computational mechanics: A review](https://arxiv.org/abs/2410.19843)
+
+**Yizheng Wang**, Jinshuai Bai, Zhongya Lin, Qimin Wang, Cosmin Anitescu, Jia Sun, Mohammad Sadegh Eshaghi, Yuantong Gu, Xi-Qiao Feng, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
+[**PDF**](https://https://arxiv.org/pdf/2410.19843) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We review AI for PDEs in computational mechanics, including solid mechanics, fluid mechanics, and biomechanics.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/KINN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -143,7 +158,7 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Mechanics</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HomoGenius: a Foundation Model of Homogenization for Rapid Prediction of Effective Mechanical Properties using Neural Operators](https://www.researchsquare.com/article/rs-3994416/v1)
@@ -192,15 +207,17 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 - *2019.08 - 2022.06*, Master in Department of Engineering Mechanics, Tsinghua University, Beijing, China
 - *2012.08 - 2016.06*, Bachelor from College of Air Traffic Management, Civil Aviation University of China, Tianjin, China
 # 💬 Conference
+- *2024.10*, [DACOMA-24](https://www.dacoma.org.cn/), Beijing, China: Yizheng Wang. “AI for PDEs in computational mechanics”  Won “Best Paper Awards”  (Oral presentation)
+
 - *2024.04*, [CCSM2024](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/), Nanjing, China: Yizheng Wang, and Yinghua Liu. “AI for PDEs in solid mechanics”. (Oral presentation and host in computaiontal solid mechanics)
 
 - *2023.08*, [CCCM2023](http://www.cccm2023.org/), Dalian, China: Yizheng Wang, and Yinghua Liu. “Deep energy method based on the principle of possible work” Oral Presentation at “Artificial Intelligence and Its Applications in Computational Mechanics”. (Oral presentation)
 
-- *2023.07*, [DACOMA-23](http://dacoma.org.cn/), Beijing, China: only participate
+- *2023.07*, [DACOMA-23](https://www.dacoma.org.cn/), Beijing, China: only participate
 
 - *2023.05*, [DDCM2023](https://www.d-dcm.cn/), Dalian, China: Yizheng Wang, and Yinghua Liu. “A deep complementary energy method for solid mechanics using minimum complementary energy principle.”  (Oral presentation)
 
-- *2022.09*, [DACOMA-22](http://dacoma.org.cn/), Beijing, China: Yizheng Wang. “Solving Partial Differential Equations of Solid Mechanics Based on PINN.”  Won “Best Paper Awards” (Master’s Thesis Supervised by Prof. Yinghua Liu) (Oral presentation)
+- *2022.09*, [DACOMA-22](https://www.dacoma.org.cn/), Beijing, China: Yizheng Wang. “Solving Partial Differential Equations of Solid Mechanics Based on PINN.”  Won “Best Paper Awards” (Master’s Thesis Supervised by Prof. Yinghua Liu) (Oral presentation)
 
 - *2022.07*, [WCCM2022](https://www.wccm2022.org/), Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.” (Oral presentation)
 # 💻 PROFESSIONAL EXPERIENCE
