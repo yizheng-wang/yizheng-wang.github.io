@@ -226,5 +226,8 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 - *2020.06 - 2020.08*, Research Assistant at [Shanxi Intelligence Institute of Big Data Technology and Innovation (SIBD)](https://www.sibd.org.cn/) , Taiyuan, China.
 - *2016.07 - 2018.05*, Flight Dispatcher at [Zhejiang Loong Airlines Co., Ltd.](https://en.wikipedia.org/wiki/Loong_Air), Xiaoshan, China.
 
+# Reviewer:
+Engineering Geology | International Journal of Impact Engineering | Frontiers of Structural and Civil Engineering | Computer, Material and Continua
+
 # [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWangCV.pdf) 
 # [My Recommendation from Timon Rabczuk](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/Recommendation-Yizheng.pdf) 
