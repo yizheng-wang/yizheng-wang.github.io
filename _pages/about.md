@@ -23,6 +23,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.03671) about DEM for contact problems.
 - *2024.10*: &nbsp;🎉🎉 [KINN](https://arxiv.org/abs/2406.11045) is accepted by CMAME!
 - *2024.10*: &nbsp;🎉🎉 The review paper about [AI FOR PDEs in computational mechanics](https://arxiv.org/abs/2410.19843) is on the Arxiv!
 - *2024.10*: &nbsp;🎉🎉 I participate in ([DACOMA-24](https://www.dacoma.org.cn/)) and win the best paper award again!
@@ -165,9 +166,23 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 **Yizheng Wang**, Xiang Li, Ziming Yan, Jinshuai Bai, Bokai Liu, Timon Rabczuk, and Yinghua Liu
 
 [**PDF**](https://assets.researchsquare.com/files/rs-3994416/v1_covered_c15acafe-78e2-4668-ab9b-f19e7a76f99c.pdf?c=1711204018) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We propose a numerical homogenization model based on operator learning: HomoGenius.  The proposed model can quickly provide homogenization results for arbitrary geometries, materials, and resolutions, increasing the efficiency by a factor of 80 compared to traditional numerical homogenization methods.
+-   We propose a numerical homogenization model based on operator learning: HomoGenius.  The proposed model can quickly provide homogenization results for arbitrary geometries, materials, and resolutions, increasing the efficiency by a factor of 1000 compared to traditional numerical homogenization methods.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/DEM_contact.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Energy-based physics-informed neural network for frictionless contact problems under large deformation](https://arxiv.org/abs/2411.03671)
+
+Jinshuai Bai, Zhongya Lin, **Yizheng Wang**, Jiancong Wen, Yinghua Liu, Timon Rabczuk, Yuantong Gu, and Xi-Qiao Feng
+
+[**PDF**](https://arxiv.org/pdf/2411.03671) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   we propose an energy-based physics-informed neural network (PINN) framework for solving frictionless contact problems under large deformation
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy</div><img src='images/multi_FNO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
