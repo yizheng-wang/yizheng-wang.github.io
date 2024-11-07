@@ -201,11 +201,11 @@ We propose a hierarchical multi-scale model utilizing Deep learning-based Neural
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/DeepBeam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Learning-Based Multi-Scale Modeling of Thermal Conductivity in Polyurethane with Phase Change Materials via Neural Operators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4846935)
+[Deep Learning-Based Multi-Scale Modeling of Thermal Conductivity in Polyurethane with Phase Change Materials via Neural Operators](https://arxiv.org/abs/2408.02698)
 
 Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
 
-[**PDF**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4846935) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**PDF**](https://arxiv.org/pdf/2408.02698) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  We propose a deep learning framework using PINNs, DEM, and Operator learning (FNO: Fourier Nueral Operator) for the analysis of functionally graded (FG) porous beams.
 </div>
 </div>
