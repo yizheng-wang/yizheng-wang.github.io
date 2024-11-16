@@ -210,6 +210,18 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advance</div><img src='images/VINO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Variational Physics-informed Neural Operator (VINO) for Solving Partial Differential Equations](https://arxiv.org/abs/2411.06587)
+
+Mohammad Sadegh Eshaghi, Cosmin Anitescu, Manish Thombre, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/pdf/2411.06587) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We combine PDEs and data using variational principles for solving partial differential equations, and the advantage of the proposed framework is that it can also work without data.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.10* I participate in ([DACOMA-24](https://www.dacoma.org.cn/)) and win the best paper award again!
 - *2024.05* Future Scholar at Tsinghua University (清华大学未来学者)！
