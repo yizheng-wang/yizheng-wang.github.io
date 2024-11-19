@@ -254,7 +254,7 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Manish Thombre, **Yizheng Wang**, Xiao
 - *2016.07 - 2018.05*, Flight Dispatcher at [Zhejiang Loong Airlines Co., Ltd.](https://en.wikipedia.org/wiki/Loong_Air), Xiaoshan, China.
 
 # Reviewer:
-Engineering Geology | International Journal of Impact Engineering | Frontiers of Structural and Civil Engineering | Computer, Material and Continua
+Engineering Geology | Underground Space | International Journal of Impact Engineering | Frontiers of Structural and Civil Engineering | Computer, Material and Continua
 
 # [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWangCV.pdf) 
 # [My Recommendation from Timon Rabczuk](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/Recommendation-Yizheng.pdf) 
