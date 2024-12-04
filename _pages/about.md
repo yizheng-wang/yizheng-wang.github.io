@@ -23,6 +23,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 The [paper](https://arxiv.org/abs/2408.02698) with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by Neurocomputing.
+- *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.06587) about PINO with variational form.
 - *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.03671) about DEM for contact problems.
 - *2024.10*: &nbsp;🎉🎉 [KINN](https://arxiv.org/abs/2406.11045) is accepted by CMAME!
 - *2024.10*: &nbsp;🎉🎉 The review paper about [AI FOR PDEs in computational mechanics](https://arxiv.org/abs/2410.19843) is on the Arxiv!
@@ -142,6 +144,17 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/DeepBeam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeepNetBeam: A Framework for the Analysis of Functionally Graded Porous Beams](https://arxiv.org/abs/2408.02698)
+
+Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/pdf/2408.02698) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We propose a deep learning framework using PINNs, DEM, and Operator learning (FNO: Fourier Nueral Operator) for the analysis of functionally graded (FG) porous beams.
+</div>
+</div>
 
 
 # 📝 Under Review
@@ -198,17 +211,6 @@ We propose a hierarchical multi-scale model utilizing Deep learning-based Neural
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/DeepBeam.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Learning-Based Multi-Scale Modeling of Thermal Conductivity in Polyurethane with Phase Change Materials via Neural Operators](https://arxiv.org/abs/2408.02698)
-
-Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
-
-[**PDF**](https://arxiv.org/pdf/2408.02698) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  We propose a deep learning framework using PINNs, DEM, and Operator learning (FNO: Fourier Nueral Operator) for the analysis of functionally graded (FG) porous beams.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/VINO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
