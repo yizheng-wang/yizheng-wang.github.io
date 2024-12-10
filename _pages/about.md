@@ -23,7 +23,7 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 The [paper](https://arxiv.org/abs/2408.02698) with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by Neurocomputing.
+- *2024.12*: &nbsp;🎉🎉 The [paper](https://www.sciencedirect.com/science/article/pii/S0925231224018903) with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by Neurocomputing.
 - *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.06587) about PINO with variational form.
 - *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.03671) about DEM for contact problems.
 - *2024.10*: &nbsp;🎉🎉 [KINN](https://arxiv.org/abs/2406.11045) is accepted by CMAME!
