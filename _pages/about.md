@@ -23,6 +23,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 The paper about [PINO with variational form](https://arxiv.org/abs/2411.06587) from my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by CMAME!
+- *2025.01*: &nbsp;🎉🎉 The paper about [DEM for contact problems](https://arxiv.org/abs/2411.03671) from my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) is accepted by CMAME!
 - *2024.12*: &nbsp;🎉🎉 The [paper](https://www.sciencedirect.com/science/article/pii/S0925231224018903) with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by Neurocomputing.
 - *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.06587) about PINO with variational form.
 - *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.03671) about DEM for contact problems.
@@ -130,6 +132,33 @@ Jinshuai Bai, Gui-Rong Liu, Timon Rabczuk, **Yizheng Wang**, Xi-Qiao Feng, YuanT
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/DEM_contact.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Energy-based physics-informed neural network for frictionless contact problems under large deformation](https://arxiv.org/abs/2411.03671)
+
+Jinshuai Bai, Zhongya Lin, **Yizheng Wang**, Jiancong Wen, Yinghua Liu, Timon Rabczuk, Yuantong Gu, and Xi-Qiao Feng
+
+[**PDF**](https://arxiv.org/pdf/2411.03671) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   we propose an energy-based physics-informed neural network (PINN) framework for solving frictionless contact problems under large deformation
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/VINO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Variational Physics-informed Neural Operator (VINO) for Solving Partial Differential Equations](https://arxiv.org/abs/2411.06587)
+
+Mohammad Sadegh Eshaghi, Cosmin Anitescu, Manish Thombre, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/pdf/2411.06587) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We combine PDEs and data using variational principles for solving partial differential equations, and the advantage of the proposed framework is that it can also work without data.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Renewable Energy</div><img src='images/RVEPINNs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -183,17 +212,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/DEM_contact.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Energy-based physics-informed neural network for frictionless contact problems under large deformation](https://arxiv.org/abs/2411.03671)
-
-Jinshuai Bai, Zhongya Lin, **Yizheng Wang**, Jiancong Wen, Yinghua Liu, Timon Rabczuk, Yuantong Gu, and Xi-Qiao Feng
-
-[**PDF**](https://arxiv.org/pdf/2411.03671) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   we propose an energy-based physics-informed neural network (PINN) framework for solving frictionless contact problems under large deformation
-</div>
-</div>
 
 
 
@@ -212,17 +231,7 @@ We propose a hierarchical multi-scale model utilizing Deep learning-based Neural
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence</div><img src='images/VINO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Variational Physics-informed Neural Operator (VINO) for Solving Partial Differential Equations](https://arxiv.org/abs/2411.06587)
-
-Mohammad Sadegh Eshaghi, Cosmin Anitescu, Manish Thombre, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
-
-[**PDF**](https://arxiv.org/pdf/2411.06587) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  We combine PDEs and data using variational principles for solving partial differential equations, and the advantage of the proposed framework is that it can also work without data.
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2024.10* I participate in ([DACOMA-24](https://www.dacoma.org.cn/)) and win the best paper award again!
