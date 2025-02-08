@@ -284,5 +284,5 @@ Engineering Structure | International Journal of Mechanical System Dynamics | Ap
 
 Conference:
 2025 23rd European Control Conference 
-# [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWang CV.pdf) 
+# [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWang_CV.pdf) 
 # [My Recommendation from Timon Rabczuk](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/Recommendation-Yizheng.pdf)
