@@ -23,8 +23,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 The paper about [PINO with variational form](https://arxiv.org/abs/2411.06587) from my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by CMAME!
-- *2025.01*: &nbsp;🎉🎉 The paper about [DEM for contact problems](https://arxiv.org/abs/2411.03671) from my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) is accepted by CMAME!
+- *2024.01*: &nbsp;🎉🎉 The paper about [PINO with variational form](https://www.sciencedirect.com/science/article/pii/S004578252500057X) from my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by CMAME!
+- *2025.01*: &nbsp;🎉🎉 The paper about [DEM for contact problems](https://www.sciencedirect.com/science/article/pii/S0045782525000593) from my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) is accepted by CMAME!
 - *2024.12*: &nbsp;🎉🎉 The [paper](https://www.sciencedirect.com/science/article/pii/S0925231224018903) with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by Neurocomputing.
 - *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.06587) about PINO with variational form.
 - *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.03671) about DEM for contact problems.
@@ -135,7 +135,7 @@ Jinshuai Bai, Gui-Rong Liu, Timon Rabczuk, **Yizheng Wang**, Xi-Qiao Feng, YuanT
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/DEM_contact.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Energy-based physics-informed neural network for frictionless contact problems under large deformation](https://arxiv.org/abs/2411.03671)
+[Energy-based physics-informed neural network for frictionless contact problems under large deformation](https://www.sciencedirect.com/science/article/pii/S0045782525000593)
 
 Jinshuai Bai, Zhongya Lin, **Yizheng Wang**, Jiancong Wen, Yinghua Liu, Timon Rabczuk, Yuantong Gu, and Xi-Qiao Feng
 
@@ -148,7 +148,7 @@ Jinshuai Bai, Zhongya Lin, **Yizheng Wang**, Jiancong Wen, Yinghua Liu, Timon Ra
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/VINO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Variational Physics-informed Neural Operator (VINO) for Solving Partial Differential Equations](https://arxiv.org/abs/2411.06587)
+[Variational Physics-informed Neural Operator (VINO) for Solving Partial Differential Equations](https://www.sciencedirect.com/science/article/pii/S004578252500057X)
 
 Mohammad Sadegh Eshaghi, Cosmin Anitescu, Manish Thombre, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
 
@@ -187,6 +187,18 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 
 # 📝 Under Review
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMSD</div><img src='images/transfer_learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transfer Learning in Physics-Informed Neural Networks: Full Fine-Tuning, Lightweight FineTuning, and Low-Rank Adaptation](https://arxiv.org/abs/2502.00782)
+
+**Yizheng Wang**, Jinshuai Bai, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
+[**PDF**](https://arxiv.org/pdf/2410.19843) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We explore the generalization capability of transfer learning in the strong and energy form of PINNs across different boundary conditions, materials, and geometries. The transfer learning methods we employ include full finetuning, lightweight finetuning, and Low-Rank Adaptation (LoRA).
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/EAAI_AI4PDEs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -272,5 +284,5 @@ Engineering Structure | International Journal of Mechanical System Dynamics | Ap
 
 Conference:
 2025 23rd European Control Conference 
-# [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWangCV.pdf) 
+# [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWang CV.pdf) 
 # [My Recommendation from Timon Rabczuk](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/Recommendation-Yizheng.pdf)
