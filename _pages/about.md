@@ -21,7 +21,7 @@ Hi, my name is Yizheng Wang. I am a first year Ph.D. student in Department of En
 
 I am majoring in solid mechanics and have rich experience in physical theory, computation, and experiment. I mainly focus on solving Partial Differential Equations of solid mechanics based on the physics-informed neural networks(PINNs), operator learning and deep energy method. My research interest is AI4Science, specifically AI for mechanics.
 
-
+My representive works are: [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), and [review of AI4PDEs](https://arxiv.org/abs/2410.19843).
 # 🔥 News
 - *2024.01*: &nbsp;🎉🎉 The paper about [PINO with variational form](https://www.sciencedirect.com/science/article/pii/S004578252500057X) from my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by CMAME!
 - *2025.01*: &nbsp;🎉🎉 The paper about [DEM for contact problems](https://www.sciencedirect.com/science/article/pii/S0045782525000593) from my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) is accepted by CMAME!
@@ -212,7 +212,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Mechanics</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJNME</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HomoGenius: a Foundation Model of Homogenization for Rapid Prediction of Effective Mechanical Properties using Neural Operators](https://www.researchsquare.com/article/rs-3994416/v1)
