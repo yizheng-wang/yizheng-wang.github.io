@@ -278,7 +278,7 @@ We propose a hierarchical multi-scale model utilizing Deep learning-based Neural
 
 # Reviewer:
 Journal:
-Engineering Geology | Underground Space | International Journal of Impact Engineering | Frontiers of Structural and Civil Engineering | Computer, Material and Continua |
+Engineering Geology | Underground Space | International Journal of Impact Engineering | Energy and AI | Frontiers of Structural and Civil Engineering | Computer, Material and Continua |
 Engineering Structure | International Journal of Mechanical System Dynamics | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering
 
 
