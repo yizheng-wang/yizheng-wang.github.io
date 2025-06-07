@@ -23,9 +23,9 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 My representative works are: [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), and [review of AI4PDEs](https://arxiv.org/abs/2410.19843).
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 The paper about [Transfer learning in PINNs](https://doi.org/10.1002/msd2.70030) is accepted by IJMSD!
-- *2024.06*: &nbsp;🎉🎉 The paper about [Explainable ML for multiscale problem](https://www.sciencedirect.com/science/article/pii/S026382232500457X) from my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) is accepted by Composite Structures!
-- *2024.01*: &nbsp;🎉🎉 The paper about [PINO with variational form](https://www.sciencedirect.com/science/article/pii/S004578252500057X) from my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by CMAME!
+- *2025.06*: &nbsp;🎉🎉 The paper about [Transfer learning in PINNs](https://doi.org/10.1002/msd2.70030) is accepted by IJMSD!
+- *2025.06*: &nbsp;🎉🎉 The paper about [Explainable ML for multiscale problem](https://www.sciencedirect.com/science/article/pii/S026382232500457X) from my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) is accepted by Composite Structures!
+- *2025.01*: &nbsp;🎉🎉 The paper about [PINO with variational form](https://www.sciencedirect.com/science/article/pii/S004578252500057X) from my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by CMAME!
 - *2025.01*: &nbsp;🎉🎉 The paper about [DEM for contact problems](https://www.sciencedirect.com/science/article/pii/S0045782525000593) from my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) is accepted by CMAME!
 - *2024.12*: &nbsp;🎉🎉 The [paper](https://www.sciencedirect.com/science/article/pii/S0925231224018903) with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by Neurocomputing.
 - *2024.11*: &nbsp;🎉🎉 Coorperate with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) for his [paper](https://arxiv.org/abs/2411.06587) about PINO with variational form.
