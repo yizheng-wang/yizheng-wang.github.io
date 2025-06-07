@@ -23,6 +23,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 My representative works are: [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), and [review of AI4PDEs](https://arxiv.org/abs/2410.19843).
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 The paper about [Transfer learning in PINNs](https://doi.org/10.1002/msd2.70030) is accepted by IJMSD!
+- *2024.06*: &nbsp;🎉🎉 The paper about [Explainable ML for multiscale problem](https://www.sciencedirect.com/science/article/pii/S026382232500457X) from my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) is accepted by Composite Structures!
 - *2024.01*: &nbsp;🎉🎉 The paper about [PINO with variational form](https://www.sciencedirect.com/science/article/pii/S004578252500057X) from my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by CMAME!
 - *2025.01*: &nbsp;🎉🎉 The paper about [DEM for contact problems](https://www.sciencedirect.com/science/article/pii/S0045782525000593) from my friend [Jinshuai Bai](https://scholar.google.com/citations?user=D668coEAAAAJ&hl=en&oi=ao) is accepted by CMAME!
 - *2024.12*: &nbsp;🎉🎉 The [paper](https://www.sciencedirect.com/science/article/pii/S0925231224018903) with my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by Neurocomputing.
@@ -108,6 +110,21 @@ My representative works are: [KINN](https://www.sciencedirect.com/science/articl
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMSD</div><img src='images/transfer_learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transfer Learning in Physics-Informed Neural Networks: Full Fine-Tuning, Lightweight FineTuning, and Low-Rank Adaptation](https://onlinelibrary.wiley.com/doi/10.1002/msd2.70030)
+
+**Yizheng Wang**, Jinshuai Bai, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
+[**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/msd2.70030) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We explore the generalization capability of transfer learning in the strong and energy form of PINNs across different boundary conditions, materials, and geometries. The transfer learning methods we employ include full finetuning, lightweight finetuning, and Low-Rank Adaptation (LoRA).
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/BINN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -171,6 +188,19 @@ Bokai Liu, **Yizheng Wang**, Timon Rabczuk, Thomas Olofsson, Weizhuo Lu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Composite Structure</div><img src='images/multi_ML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Explainable machine learning for multiscale thermal conductivity modeling in polymer nanocomposites with uncertainty quantification](https://www.sciencedirect.com/science/article/pii/S026382232500457X)
+
+Bokai Liu, Pengju Liu, **Yizheng Wang**, Zhenkun Li, Hongqing Lv, Weizhuo Lu, Thomas Olofsson, and Timon Rabczuk
+
+[**PDF**](https://www.sciencedirect.com/science/article/pii/S026382232500457X) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We
+propose an innovative approach integrating interpretable stochastic machine learning with multiscale analysis to predict the macroscopic thermal conductivity of graphene-based polymer nanocomposites.
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/DeepBeam.png' alt="sym" width="100%"></div></div>
@@ -188,16 +218,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 # 📝 Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMSD</div><img src='images/transfer_learning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Transfer Learning in Physics-Informed Neural Networks: Full Fine-Tuning, Lightweight FineTuning, and Low-Rank Adaptation](https://arxiv.org/abs/2502.00782)
-
-**Yizheng Wang**, Jinshuai Bai, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
-[**PDF**](https://arxiv.org/pdf/2410.19843) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  We explore the generalization capability of transfer learning in the strong and energy form of PINNs across different boundary conditions, materials, and geometries. The transfer learning methods we employ include full finetuning, lightweight finetuning, and Low-Rank Adaptation (LoRA).
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/EAAI_AI4PDEs.png' alt="sym" width="100%"></div></div>
@@ -228,18 +249,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy</div><img src='images/multi_FNO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Learning-Based Multi-Scale Modeling of Thermal Conductivity in Polyurethane with Phase Change Materials via Neural Operators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702962)
-
-**Bokai Liu**, **Yizheng Wang**, Yinghua Liu, Kailun Feng, Timon Rabczuk, and Thomas Olofsson
-
-[**PDF**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4702962) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  **<>**: These authors contributed equally to this work. 
-We propose a hierarchical multi-scale model utilizing Deep learning-based Neural Operators. This model enables precise prediction and analysis of the material’s thermal conductivity at both the fine-scale and coarse-scale, from nano to macro scales.
-</div>
-</div>
 
 
 
