@@ -23,6 +23,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 My representative works are: [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), and [review of AI4PDEs](https://arxiv.org/abs/2410.19843).
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 I have an oral presentation in CSTAM 中国力学大会[AI for PDEs in computational mechanics](https://meeting.cstam.org.cn/userVam3/#/meetingSchedule?sid=337&mid=85&v=109&meetingplaceId=78)!
+- *2025.07*: &nbsp;🎉🎉 The paper about [Review of AI4PDEs](https://link.springer.com/article/10.1007/s10409-025-25340-x) is accepted by AMS!
 - *2025.06*: &nbsp;🎉🎉 The paper about [Transfer learning in PINNs](https://doi.org/10.1002/msd2.70030) is accepted by IJMSD!
 - *2025.06*: &nbsp;🎉🎉 The paper about [Explainable ML for multiscale problem](https://www.sciencedirect.com/science/article/pii/S026382232500457X) from my friend [Dr. Liu](https://scholar.google.com/citations?user=vRhyKQoAAAAJ&hl=en) is accepted by Composite Structures!
 - *2025.01*: &nbsp;🎉🎉 The paper about [PINO with variational form](https://www.sciencedirect.com/science/article/pii/S004578252500057X) from my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is accepted by CMAME!
@@ -123,7 +125,16 @@ My representative works are: [KINN](https://www.sciencedirect.com/science/articl
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMS</div><img src='images/AI4PDEs_review_AMS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Towards the future of physics- and data-guided AI frameworks in computational mechanics](https://link.springer.com/article/10.1007/s10409-025-25340-x)
+
+Jinshuai Bai, **Yizheng Wang**, Hyogu Jeong, Shiyuan Chu, Qingxia Wang, Laith Alzubaidi, Xiaoying Zhuang, Timon Rabczuk, Yi Min Xie, Xi-Qiao Feng, and Yuantong Gu
+[**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/msd2.70030) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  Discuss the future of foundational frameworks that combine the strengths of physics and data.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/BINN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -267,11 +278,13 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 - *2019.08 - 2022.06*, Master in Department of Engineering Mechanics, Tsinghua University, Beijing, China
 - *2012.08 - 2016.06*, Bachelor from College of Air Traffic Management, Civil Aviation University of China, Tianjin, China
 # 💬 Conference
+- *2025.7*, [CSTAM-25](https://meeting.cstam.org.cn/userVam3/#/meetingSchedule?sid=337&mid=85&v=109&meetingplaceId=78)中国力学大会, Changsha, China: Yizheng Wang. “AI for PDEs in computational mechanics”  (Oral presentation)
+
 - *2024.10*, [DACOMA-24](https://www.dacoma.org.cn/), Beijing, China: Yizheng Wang. “AI for PDEs in computational mechanics”  Won “Best Paper Awards”  (Oral presentation)
 
-- *2024.04*, [CCSM2024](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/), Nanjing, China: Yizheng Wang, and Yinghua Liu. “AI for PDEs in solid mechanics”. (Oral presentation and host in computaiontal solid mechanics)
+- *2024.04*, [CCSM2024](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/)全国固体力学大会, Nanjing, China: Yizheng Wang, and Yinghua Liu. “AI for PDEs in solid mechanics”. (Oral presentation and host in computaiontal solid mechanics)
 
-- *2023.08*, [CCCM2023](http://www.cccm2023.org/), Dalian, China: Yizheng Wang, and Yinghua Liu. “Deep energy method based on the principle of possible work” Oral Presentation at “Artificial Intelligence and Its Applications in Computational Mechanics”. (Oral presentation)
+- *2023.08*, [CCCM2023](http://www.cccm2023.org/)中国计算力学大会, Dalian, China: Yizheng Wang, and Yinghua Liu. “Deep energy method based on the principle of possible work” Oral Presentation at “Artificial Intelligence and Its Applications in Computational Mechanics”. (Oral presentation)
 
 - *2023.07*, [DACOMA-23](https://www.dacoma.org.cn/), Beijing, China: only participate
 
@@ -279,7 +292,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 - *2022.09*, [DACOMA-22](https://www.dacoma.org.cn/), Beijing, China: Yizheng Wang. “Solving Partial Differential Equations of Solid Mechanics Based on PINN.”  Won “Best Paper Awards” (Master’s Thesis Supervised by Prof. Yinghua Liu) (Oral presentation)
 
-- *2022.07*, [WCCM2022](https://www.wccm2022.org/), Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.” (Oral presentation)
+- *2022.07*, [WCCM2022](https://www.wccm2022.org/)世界计算力学大会, Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.” (Oral presentation)
 # 💻 PROFESSIONAL EXPERIENCE
 - *2023.09 - 2024.08*, Guest Researcher supervised by [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en), Weimar, Germany.
 - *2022.11 - 2023.07*, Research Assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
@@ -288,7 +301,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 # Reviewer:
 Journal:
-Engineering Geology | Underground Space | International Journal of Impact Engineering | Engineering Analysis with Boundary Elements | Energy and AI | Frontiers of Structural and Civil Engineering | Computer, Material and Continua |
+Engineering Geology | Underground Space | International Journal of Impact Engineering | International Journal of Hydrology | Engineering Analysis with Boundary Elements | Energy and AI | Frontiers of Structural and Civil Engineering | Computer, Material and Continua |
 Engineering Structure | International Journal of Mechanical System Dynamics | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics 
 
 
