@@ -278,13 +278,13 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 - *2019.08 - 2022.06*, Master in Department of Engineering Mechanics, Tsinghua University, Beijing, China
 - *2012.08 - 2016.06*, Bachelor from College of Air Traffic Management, Civil Aviation University of China, Tianjin, China
 # 💬 Conference
-- *2025.7*, [CSTAM-25](https://meeting.cstam.org.cn/userVam3/#/meetingSchedule?sid=337&mid=85&v=109&meetingplaceId=78)中国力学大会, Changsha, China: Yizheng Wang. “AI for PDEs in computational mechanics”  (Oral presentation)
+- *2025.7*, [CSTAM-25](https://meeting.cstam.org.cn/userVam3/#/meetingSchedule?sid=337&mid=85&v=109&meetingplaceId=78) 中国力学大会, Changsha, China: Yizheng Wang. “AI for PDEs in computational mechanics”  (Oral presentation)
 
 - *2024.10*, [DACOMA-24](https://www.dacoma.org.cn/), Beijing, China: Yizheng Wang. “AI for PDEs in computational mechanics”  Won “Best Paper Awards”  (Oral presentation)
 
-- *2024.04*, [CCSM2024](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/)全国固体力学大会, Nanjing, China: Yizheng Wang, and Yinghua Liu. “AI for PDEs in solid mechanics”. (Oral presentation and host in computaiontal solid mechanics)
+- *2024.04*, [CCSM2024](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/) 全国固体力学大会, Nanjing, China: Yizheng Wang, and Yinghua Liu. “AI for PDEs in solid mechanics”. (Oral presentation and host in computaiontal solid mechanics)
 
-- *2023.08*, [CCCM2023](http://www.cccm2023.org/)中国计算力学大会, Dalian, China: Yizheng Wang, and Yinghua Liu. “Deep energy method based on the principle of possible work” Oral Presentation at “Artificial Intelligence and Its Applications in Computational Mechanics”. (Oral presentation)
+- *2023.08*, [CCCM2023](http://www.cccm2023.org/) 中国计算力学大会, Dalian, China: Yizheng Wang, and Yinghua Liu. “Deep energy method based on the principle of possible work” Oral Presentation at “Artificial Intelligence and Its Applications in Computational Mechanics”. (Oral presentation)
 
 - *2023.07*, [DACOMA-23](https://www.dacoma.org.cn/), Beijing, China: only participate
 
@@ -292,7 +292,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 - *2022.09*, [DACOMA-22](https://www.dacoma.org.cn/), Beijing, China: Yizheng Wang. “Solving Partial Differential Equations of Solid Mechanics Based on PINN.”  Won “Best Paper Awards” (Master’s Thesis Supervised by Prof. Yinghua Liu) (Oral presentation)
 
-- *2022.07*, [WCCM2022](https://www.wccm2022.org/)世界计算力学大会, Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.” (Oral presentation)
+- *2022.07*, [WCCM2022](https://www.wccm2022.org/) 世界计算力学大会, Yokohama, Japan: Yizheng Wang, and Yinghua Liu. “A Physics-informed Complementary Energy Form in Solid Mechanics.” Presented at Minisymposium MS1716 “Data-driven Approaches in Computational Solid Mechanics.” (Oral presentation)
 # 💻 PROFESSIONAL EXPERIENCE
 - *2023.09 - 2024.08*, Guest Researcher supervised by [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en), Weimar, Germany.
 - *2022.11 - 2023.07*, Research Assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Beijing, China.
