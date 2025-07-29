@@ -23,6 +23,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 My representative works are: [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), and [review of AI4PDEs](https://arxiv.org/abs/2410.19843).
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 The paper about [Multi-Head Neural Operator for Modelling Interfacial Dynamics](https://arxiv.org/abs/2507.17763) from my friend [Mohammad Sadegh Eshaghi](https://scholar.google.com/citations?user=ZA_nLX4AAAAJ&hl=en&oi=ao) is available on Arxiv!
+- *2025.07*: &nbsp;🎉🎉 The paper about [Add an extra loss in DEM](https://www.sciencedirect.com/science/article/abs/pii/S0045794925002573) from my friend Manish is accepted by Computer & Structures!
 - *2025.07*: &nbsp;🎉🎉 I have an oral presentation in CSTAM 中国力学大会[AI for PDEs in computational mechanics](https://meeting.cstam.org.cn/userVam3/#/meetingSchedule?sid=337&mid=85&v=109&meetingplaceId=78)!
 - *2025.07*: &nbsp;🎉🎉 The paper about [Review of AI4PDEs](https://link.springer.com/article/10.1007/s10409-025-25340-x) is accepted by AMS!
 - *2025.06*: &nbsp;🎉🎉 The paper about [Transfer learning in PINNs](https://doi.org/10.1002/msd2.70030) is accepted by IJMSD!
@@ -214,6 +216,21 @@ propose an innovative approach integrating interpretable stochastic machine lear
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer & Structures</div><img src='images/Extra_loss_DEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Energy-based methods for solving forward and inverse linear elasticity problems in 2D structures](https://www.sciencedirect.com/science/article/abs/pii/S0045794925002573)
+
+Manish Thombre, Cosmin Anitescu, BVSS Bharadwaja, **Yizheng Wang**, Timon Rabczuk, Alankar Alankar
+
+[**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0045794925002573) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  An additional strong-form loss is enforced on the interface to improve accuracy, incurring only negligible computational overhead in the Deep Energy Method.
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/DeepBeam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -257,7 +274,17 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS</div><img src='images/Multi_head_FNO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Multi-Head Neural Operator for Modelling Interfacial Dynamics](https://arxiv.org/abs/2507.17763)
+
+Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/pdf/2507.17763) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We introduce the Multi-Head Neural Operator (MHNO), a novel neural operator architecture built to handle long temporal dynamics. MHNO uses time-step-specific projections and message-passing-inspired connections to model full time evolution in a single forward pass.
+</div>
+</div>
 
 
 
