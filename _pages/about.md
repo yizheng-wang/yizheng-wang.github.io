@@ -329,7 +329,7 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 # Reviewer:
 Journal:
 Journal of the Mechanics and Physics of Solids | Engineering Geology | Underground Space | International Journal of Impact Engineering | International Journal of Hydrology | Engineering Analysis with Boundary Elements | Energy and AI | Neural Network | Frontiers of Structural and Civil Engineering | Computer, Material and Continua |
-Engineering Structure | International Journal of Mechanical System Dynamics | Scientific Reports | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics 
+Engineering Structure | International Journal of Mechanical System Dynamics | Scientific Reports | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics | Computers and Chemical Engineering
 
 
 Conference:
