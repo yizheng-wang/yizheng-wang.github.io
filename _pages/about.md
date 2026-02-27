@@ -66,6 +66,19 @@ My representative works are: [KINN](https://www.sciencedirect.com/science/articl
 - *2022.08*: &nbsp;🎉🎉 [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096) is accepted by CMAME!
 - *2022.06*: &nbsp;🎉🎉 I receive my master degree from Tsinghua University!
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A pretraining-finetuning computational framework for material homogenization](https://doi.org/10.1016/j.ijmecsci.2026.111388)
+
+**Yizheng Wang**, Xiang Li, Ziming Yan, Jinshuai Bai, Bokai Liu, Timon Rabczuk, and Yinghua Liu
+
+[**PDF**](https://assets.researchsquare.com/files/rs-3994416/v1_covered_c15acafe-78e2-4668-ab9b-f19e7a76f99c.pdf?c=1711204018) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose a numerical homogenization model based on operator learning: HomoGenius.  The proposed model can quickly provide homogenization results for arbitrary geometries, materials, and resolutions, increasing the efficiency by a factor of 1000 compared to traditional numerical homogenization methods.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/KINN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -216,6 +229,18 @@ propose an innovative approach integrating interpretable stochastic machine lear
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS</div><img src='images/Multi_head_FNO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Head Neural Operator for Modelling Interfacial Dynamics](https://doi.org/10.1016/j.ijmecsci.2026.111363)
+
+Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/pdf/2507.17763) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We introduce the Multi-Head Neural Operator (MHNO), a novel neural operator architecture built to handle long temporal dynamics. MHNO uses time-step-specific projections and message-passing-inspired connections to model full time evolution in a single forward pass.
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer & Structures</div><img src='images/Extra_loss_DEM.png' alt="sym" width="100%"></div></div>
@@ -263,17 +288,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJNME</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[HomoGenius: a Foundation Model of Homogenization for Rapid Prediction of Effective Mechanical Properties using Neural Operators](https://www.researchsquare.com/article/rs-3994416/v1)
-
-**Yizheng Wang**, Xiang Li, Ziming Yan, Jinshuai Bai, Bokai Liu, Timon Rabczuk, and Yinghua Liu
-
-[**PDF**](https://assets.researchsquare.com/files/rs-3994416/v1_covered_c15acafe-78e2-4668-ab9b-f19e7a76f99c.pdf?c=1711204018) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We propose a numerical homogenization model based on operator learning: HomoGenius.  The proposed model can quickly provide homogenization results for arbitrary geometries, materials, and resolutions, increasing the efficiency by a factor of 1000 compared to traditional numerical homogenization methods.
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Computational Science</div><img src='images/XDEM.png' alt="sym" width="100%"></div></div>
@@ -289,6 +304,9 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 </div>
 
 
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Computational Science</div><img src='images/NOWS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -300,22 +318,6 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 -   We propose Neural Operator Warm Starts (NOWS), a hybrid strategy that harnesses learned solution operators to accelerate classicaliterative solvers by producing high-quality initial guesse.
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS</div><img src='images/Multi_head_FNO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-Head Neural Operator for Modelling Interfacial Dynamics](https://arxiv.org/abs/2507.17763)
-
-Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
-
-[**PDF**](https://arxiv.org/pdf/2507.17763) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We introduce the Multi-Head Neural Operator (MHNO), a novel neural operator architecture built to handle long temporal dynamics. MHNO uses time-step-specific projections and message-passing-inspired connections to model full time evolution in a single forward pass.
-</div>
-</div>
-
-
-
-
 
 
 
@@ -332,9 +334,13 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 - *2019.08 - 2022.06*, Master in Department of Engineering Mechanics, Tsinghua University, Beijing, China
 - *2012.08 - 2016.06*, Bachelor from College of Air Traffic Management, Civil Aviation University of China, Tianjin, China
 # 💬 Conference
+- *2025.12*, [APCOM-ACCM 2025](https://www.apcom2025.org/), Brisbane, Australia: Yizheng Wang. “Towards Unified AI-Driven Fracture Mechanics: The Extended Deep Energy Method (XDEM)”  (Oral presentation)
+
+- *2025.10*, [DACOMA-25](https://www.dacoma.org.cn/), Beijing, China: Yizheng Wang. “Towards Unified AI-Driven Fracture Mechanics: The Extended Deep Energy Method (XDEM)”  (Oral presentation) (Chair for Machine Learning Computing for Damage and Fracture Mechanics)
+
 - *2025.7*, [CSTAM-25](https://meeting.cstam.org.cn/userVam3/#/meetingSchedule?sid=337&mid=85&v=109&meetingplaceId=78) 中国力学大会, Changsha, China: Yizheng Wang. “AI for PDEs in computational mechanics”  (Oral presentation)
 
-- *2024.10*, [DACOMA-24](https://www.dacoma.org.cn/), Beijing, China: Yizheng Wang. “AI for PDEs in computational mechanics”  Won “Best Paper Awards”  (Oral presentation)
+- *2024.10*, [DACOMA-24](https://www.dacoma.org.cn/), Nanjing, China: Yizheng Wang. “AI for PDEs in computational mechanics”  Won “Best Paper Awards”  (Oral presentation)
 
 - *2024.04*, [CCSM2024](http://ccsm2024.yiyum.com/?bust=1718867815838&sid=3777&mid=963&v=100#!c/show/a/index/) 全国固体力学大会, Nanjing, China: Yizheng Wang, and Yinghua Liu. “AI for PDEs in solid mechanics”. (Oral presentation and host in computaiontal solid mechanics)
 
@@ -355,8 +361,7 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 
 # Reviewer:
 Journal:
-Journal of the Mechanics and Physics of Solids | Engineering Applications of Artificial Intelligence | Engineering Geology | Underground Space | International Journal of Impact Engineering | International Journal of Hydrology | Engineering Analysis with Boundary Elements | Energy and AI | Neural Network | Frontiers of Structural and Civil Engineering | Computer, Material and Continua |
-Engineering Structure | International Journal of Mechanical System Dynamics | Scientific Reports | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics | Computers and Chemical Engineering | Journal of Building Engineering | Applied Mathematical Modelling | Thin-Walled Structures
+Journal of the Mechanics and Physics of Solids | Engineering Applications of Artificial Intelligence | Engineering Geology | Underground Space | International Journal of Impact Engineering | International Journal of Hydrology | Engineering Analysis with Boundary Elements | Energy and AI | Neural Network | Frontiers of Structural and Civil Engineering | Computer, Material and Continua | Engineering Structure | International Journal of Mechanical System Dynamics | Scientific Reports | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics | Computers and Chemical Engineering | Journal of Building Engineering | Applied Mathematical Modelling | Thin-Walled Structures | Computers and Structures
 
 
 Conference:
