@@ -1,31 +1,5 @@
 <script src="assets/js/main.min.js"></script>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<script>
-  (function () {
-    var OFFSET = 3000;
-    var TARGET_ID = "busuanzi_value_site_pv";
-    var applied = false;
-
-    function applyOffset() {
-      if (applied) return;
-
-      var el = document.getElementById(TARGET_ID);
-      if (!el) return;
-
-      var raw = (el.textContent || "").trim();
-      if (!/^\d+$/.test(raw)) return;
-
-      var base = parseInt(raw, 10);
-      el.textContent = String(base + OFFSET);
-      applied = true;
-    }
-
-    // Busuanzi updates asynchronously, so retry a few times.
-    for (var i = 0; i < 15; i++) {
-      setTimeout(applyOffset, i * 400);
-    }
-  })();
-</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
