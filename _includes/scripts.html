@@ -4,8 +4,11 @@
   (function () {
     var OFFSET = 3000;
     var TARGET_ID = "busuanzi_value_site_pv";
+    var applied = false;
 
     function applyOffset() {
+      if (applied) return;
+
       var el = document.getElementById(TARGET_ID);
       if (!el) return;
 
@@ -14,6 +17,7 @@
 
       var base = parseInt(raw, 10);
       el.textContent = String(base + OFFSET);
+      applied = true;
     }
 
     // Busuanzi updates asynchronously, so retry a few times.
