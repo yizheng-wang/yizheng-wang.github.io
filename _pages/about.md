@@ -21,7 +21,7 @@ Hi, my name is Yizheng Wang. I am a second year Ph.D. student in Department of E
 
 I am majoring in solid mechanics and have rich experience in physical theory, computation, and experiment. I mainly focus on solving Partial Differential Equations of solid mechanics based on the physics-informed neural networks(PINNs), operator learning and deep energy method. My research interest is AI4Science, specifically AI for mechanics.
 
-My representative works are: [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), and [review of AI4PDEs](https://arxiv.org/abs/2410.19843).
+My representative works are: [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), [PFEM](https://arxiv.org/abs/2601.03086) and [review of AI4PDEs](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570/Artificial-Intelligence-For-Partial-Differential?searchresult=1).
 
 # 📝 Publications 
 
@@ -37,7 +37,17 @@ My representative works are: [KINN](https://www.sciencedirect.com/science/articl
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMPS</div><img src='images/PFEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators](https://arxiv.org/abs/2601.03086)
+
+**Yizheng Wang**, Zhongkai Hao, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+
+[**PDF**](https://arxiv.org/abs/2601.03086) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose a Pretrained Finite Element Method (PFEM),a physics driven framework that bridges the efficiency of neural operator learning with the accuracy and robustness of classical finite element methods (FEM).
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -246,7 +256,17 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 # 📝 Under Review
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Continual_NOs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Replay-Based Continual Learning for Physics-Informed Neural Operators](https://arxiv.org/abs/2605.04832)
+
+**Yizheng Wang**, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+
+[**PDF**](https://arxiv.org/abs/2605.04832) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   Neural operators generally demonstrate strong predictive performance on in-distribution (ID) problems. However, a critical limitation of existing methods is their significant performance degradation when encountering out-of-distribution (OOD) data. To address this issue, this work introduces continual learning into physics-informed neural operators, with particular emphasis on neural operators built upon the Transolver architecture, and proposes a simple yet effective replay-based continual learning strategy. 
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/XDEM.png' alt="sym" width="100%"></div></div>
@@ -262,17 +282,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PFEM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators](https://arxiv.org/abs/2601.03086)
-
-**Yizheng Wang**, Zhongkai Hao, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
-
-[**PDF**](https://arxiv.org/abs/2601.03086) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We propose a Pretrained Finite Element Method (PFEM),a physics driven framework that bridges the efficiency of neural operator learning with the accuracy and robustness of classical finite element methods (FEM).
-</div>
-</div>
 
 
 
@@ -344,7 +354,7 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 
 # Reviewer:
 Journal:
-Journal of the Mechanics and Physics of Solids | Engineering Applications of Artificial Intelligence | Engineering Geology | Underground Space | International Journal of Impact Engineering | International Journal of Hydrology | Engineering Analysis with Boundary Elements | Energy and AI | Neural Network | Frontiers of Structural and Civil Engineering | Computer, Material and Continua | Engineering Structure | International Journal of Mechanical System Dynamics | Scientific Reports | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics | Computers and Chemical Engineering | Journal of Building Engineering | Applied Mathematical Modelling | Thin-Walled Structures | Computers and Structures | Computer Physics Communications | IEEE Transactions on Neural Networks and Learning Systems | Results in Engineering
+Journal of the Mechanics and Physics of Solids | Engineering Applications of Artificial Intelligence | Engineering Geology | Underground Space | International Journal of Impact Engineering | International Journal of Hydrology | Engineering Analysis with Boundary Elements | Energy and AI | Neural Network | Frontiers of Structural and Civil Engineering | Computer, Material and Continua | Engineering Structure | International Journal of Mechanical System Dynamics | Scientific Reports | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics | Computers and Chemical Engineering | Journal of Building Engineering | Applied Mathematical Modelling | Thin-Walled Structures | Computers and Structures | Computer Physics Communications | IEEE Transactions on Neural Networks and Learning Systems | Results in Engineering | Neurocomputing
 
 
 Conference:
