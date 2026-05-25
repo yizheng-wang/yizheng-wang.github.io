@@ -40,11 +40,11 @@ My representative works are: [KINN](https://www.sciencedirect.com/science/articl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMPS</div><img src='images/PFEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators](https://arxiv.org/abs/2601.03086)
+[Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators](https://www.sciencedirect.com/science/article/abs/pii/S0022509626001833)
 
 **Yizheng Wang**, Zhongkai Hao, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
 
-[**PDF**](https://arxiv.org/abs/2601.03086) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**PDF**](https://arxiv.org/pdf/2601.03086) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   We propose a Pretrained Finite Element Method (PFEM),a physics driven framework that bridges the efficiency of neural operator learning with the accuracy and robustness of classical finite element methods (FEM).
 </div>
 </div>
@@ -187,6 +187,21 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Manish Thombre, **Yizheng Wang**, Xiao
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NOWS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers](https://www.sciencedirect.com/science/article/pii/S0045782526002628)
+
+Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/abs/2511.02481) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose Neural Operator Warm Starts (NOWS), a hybrid strategy that harnesses learned solution operators to accelerate classicaliterative solvers by producing high-quality initial guesse.
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Renewable Energy</div><img src='images/RVEPINNs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -300,19 +315,6 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NOWS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers](https://arxiv.org/abs/2511.02481)
-
-Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xiaoying Zhuang, Timon Rabczuk
-
-[**PDF**](https://arxiv.org/abs/2511.02481) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We propose Neural Operator Warm Starts (NOWS), a hybrid strategy that harnesses learned solution operators to accelerate classicaliterative solvers by producing high-quality initial guesse.
-</div>
-</div>
-
-
 
 
 # 🎖 Honors and Awards
@@ -354,10 +356,10 @@ Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, **Yizheng Wang**, Xia
 
 # Reviewer:
 Journal:
-Journal of the Mechanics and Physics of Solids | Engineering Applications of Artificial Intelligence | Engineering Geology | Underground Space | International Journal of Impact Engineering | International Journal of Hydrology | Engineering Analysis with Boundary Elements | Energy and AI | Neural Network | Frontiers of Structural and Civil Engineering | Computer, Material and Continua | Engineering Structure | International Journal of Mechanical System Dynamics | Scientific Reports | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics | Computers and Chemical Engineering | Journal of Building Engineering | Applied Mathematical Modelling | Thin-Walled Structures | Computers and Structures | Computer Physics Communications | IEEE Transactions on Neural Networks and Learning Systems | Results in Engineering | Neurocomputing
-
+Journal of the Mechanics and Physics of Solids | Engineering Applications of Artificial Intelligence | Engineering Geology | Underground Space | International Journal of Impact Engineering | International Journal of Hydrology | Engineering Analysis with Boundary Elements | Energy and AI | Neural Network | Frontiers of Structural and Civil Engineering | Computer, Material and Continua | Engineering Structure | International Journal of Mechanical System Dynamics | Scientific Reports | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics | Computers and Chemical Engineering | Journal of Building Engineering | Applied Mathematical Modelling | Thin-Walled Structures | Computers and Structures | Computer Physics Communications | IEEE Transactions on Neural Networks and Learning Systems | Results in Engineering | Neurocomputing | Mechanism and Machine Theory
 
 Conference:
 2025 23rd European Control Conference 
+
 # [My CV](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/YizhengWang_CV.pdf) 
 # [My Recommendation from Timon Rabczuk](https://github.com/yizheng-wang/yizheng-wang.github.io/blob/main/docs/Recommendation-Yizheng.pdf)
