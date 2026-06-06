@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Yizheng Wang. I am a second year Ph.D. student in Department of Engineering Mechanics, Tsinghua University (2024-now), supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) and [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en). I major in engineering mechanics, mainly doing computational solid mechanics and received my master’s degree supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) (2019-2022) from the Institute of Solid Mechanics (ISM), Department of Engineering Mechanics, Tsinghua University, and Bachelor's degree from Civil Aviation University of China in Tianjin. I also worked as a research assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) (2022-2023). I have came to Bauhaus University as a guest researcher in Weimar supervised by [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en) for AI for mechanics (2023-2024).
+Hi, my name is Yizheng Wang. I am a second year Ph.D. student in Department of Engineering Mechanics, Tsinghua University (2024-now), supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) and [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en). I major in engineering mechanics, mainly doing computational solid mechanics and received my master’s degree supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) (2019-2022) from the Institute of Solid Mechanics (ISM), Department of Engineering Mechanics, Tsinghua University, and Bachelor's degree from Civil Aviation University of China in Tianjin. I also worked as a research assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) (2022-2023). I have came to Bauhaus University as a guest researcher in Weimar supervised by [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en) for AI for mechanics (2023-2024). My email is wang-yz19@tsinghua.org.cn
 
 I am majoring in solid mechanics and have rich experience in physical theory, computation, and experiment. I mainly focus on solving Partial Differential Equations of solid mechanics based on the physics-informed neural networks(PINNs), operator learning and deep energy method. My research interest is AI4Science, specifically AI for mechanics.
 
@@ -49,6 +49,32 @@ My representative works are: [KINN](https://www.sciencedirect.com/science/articl
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/KINN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving PDEs based on Kolmogorov Arnold Networks](https://www.sciencedirect.com/science/article/pii/S0045782524007722)
+
+**Yizheng Wang**, Jia Sun, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
+
+[**PDF**](https://arxiv.org/pdf/2406.11045) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-  We propose different PDE forms based on KAN instead of MLP, termed Kolmogorov-Arnold-Informed Neural Network (KINN). We systematically compare MLP and KAN in various numerical examples of PDEs, including multi-scale, singularity, stress concentration, nonlinear hyperelasticity, heterogeneous, and complex geometry problems. Our results demonstrate that KINN significantly outperforms MLP in terms of accuracy and convergence speed for numerous PDEs in computational solid mechanics, except for the complex geometry problem. This highlights KINN's potential for more efficient and accurate PDE solutions in AI for PDEs.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Structures</div><img src='images/LMDEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Energy Method with Large Language Model assistance: an open-source Streamlit-based platform for solving variational PDEs](https://www.sciencedirect.com/science/article/pii/S0045794926002063)
+
+**Yizheng Wang**, Cosmin Anitescu, Mohammad Sadegh Eshaghi,  Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+
+[**PDF**](https://arxiv.org/abs/2602.07838) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We present LM-DEM(Large-Model-assisted Deep Energy Method), an open-source, Streamlit-based platform for solving variationalpartial differential equations (PDEs) in computational mechanics.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,17 +88,7 @@ My representative works are: [KINN](https://www.sciencedirect.com/science/articl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/KINN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving PDEs based on Kolmogorov Arnold Networks](https://www.sciencedirect.com/science/article/pii/S0045782524007722)
-
-**Yizheng Wang**, Jia Sun, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
-
-[**PDF**](https://arxiv.org/pdf/2406.11045) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--  We propose different PDE forms based on KAN instead of MLP, termed Kolmogorov-Arnold-Informed Neural Network (KINN). We systematically compare MLP and KAN in various numerical examples of PDEs, including multi-scale, singularity, stress concentration, nonlinear hyperelasticity, heterogeneous, and complex geometry problems. Our results demonstrate that KINN significantly outperforms MLP in terms of accuracy and convergence speed for numerous PDEs in computational solid mechanics, except for the complex geometry problem. This highlights KINN's potential for more efficient and accurate PDE solutions in AI for PDEs.
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJNME</div><img src='images/DCEM.png' alt="sym" width="100%"></div></div>
@@ -301,17 +317,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/LMDEM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Energy Method with Large Language Model assistance: an open-source Streamlit-based platform for solving variational PDEs](https://arxiv.org/abs/2602.07838)
-
-**Yizheng Wang**, Cosmin Anitescu, Mohammad Sadegh Eshaghi,  Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
-
-[**PDF**](https://arxiv.org/abs/2602.07838) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We present LM-DEM(Large-Model-assisted Deep Energy Method), an open-source, Streamlit-based platform for solving variationalpartial differential equations (PDEs) in computational mechanics.
-</div>
-</div>
 
 
 
