@@ -23,6 +23,8 @@ I am majoring in solid mechanics and have rich experience in physical theory, co
 
 My representative works are: [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), [PFEM](https://arxiv.org/abs/2601.03086) and [review of AI4PDEs](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570/Artificial-Intelligence-For-Partial-Differential?searchresult=1).
 
+My email is wang-yz19@tsinghua.org.cn
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Mechanics Reviews</div><img src='images/EAAI_AI4PDEs.png' alt="sym" width="100%"></div></div>
