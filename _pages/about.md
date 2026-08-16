@@ -307,7 +307,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 Timon Rabczuk, Cosmin Anitescu, Somdatta Goswami, Xiaoying Zhuang, **Yizheng Wang**
 
-[**PDF**](https://www.nature.com/articles/s41467-026-76748-1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**PDF**](https://link.springer.com/book/10.1007/978-3-032-20307-6) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   One of the first books on machine learning based solutions of partial differential equations
 </div>
 </div>
