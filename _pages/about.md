@@ -38,7 +38,7 @@ My email is wang-yz19@tsinghua.org.cn
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/XDEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='images/XDEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Unified AI-Driven Fracture Mechanics: TheExtended Deep Energy Method (XDEM)](https://www.nature.com/articles/s41467-026-76748-1)
@@ -300,7 +300,7 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI4PDEs_book.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Springer Nature (Book)</div><img src='images/AI4PDEs_book.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scientific Machine Learning with Engineering Applications](https://link.springer.com/book/10.1007/978-3-032-20307-6)
@@ -425,6 +425,8 @@ Mohammad Sadegh Eshaghi, **Yizheng Wang**, Navid Valizadeh, Xiaoying Zhuang, Tim
 # Reviewer:
 Journal:
 Journal of the Mechanics and Physics of Solids | Engineering Applications of Artificial Intelligence | Engineering Geology | Underground Space | International Journal of Impact Engineering | International Journal of Hydrology | Engineering Analysis with Boundary Elements | Energy and AI | Neural Network | Frontiers of Structural and Civil Engineering | Computer, Material and Continua | Engineering Structure | International Journal of Mechanical System Dynamics | Scientific Reports | Applied Physics A | International Journal of Mechanics and Materials in Design | Machine Learning for Computational Science and Engineering | Mechanics Based Design of Structures and Machines | International Journal of Hydromechatronics | Computers and Chemical Engineering | Journal of Building Engineering | Applied Mathematical Modelling | Thin-Walled Structures | Computers and Structures | Computer Physics Communications | IEEE Transactions on Neural Networks and Learning Systems | Results in Engineering | Neurocomputing | Mechanism and Machine Theory | Nonlinear Dynamics | Measurement
+
+
 
 Conference:
 2025 23rd European Control Conference 
