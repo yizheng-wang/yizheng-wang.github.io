@@ -36,6 +36,18 @@ My representative works are: [KINN](https://www.sciencedirect.com/science/articl
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/XDEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Unified AI-Driven Fracture Mechanics: TheExtended Deep Energy Method (XDEM)](https://www.nature.com/articles/s41467-026-76748-1)
+
+**Yizheng Wang**, Yuzhou Lin, Somdatta Goswami, Luyang Zhao, Huadong Zhang, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+
+[**PDF**](https://www.nature.com/articles/s41467-026-76748-1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose Extended Deep Energy Method (XDEM), a unified deep learning framework that incorporates both displacement discontinuities and crack-tip asymptotics in the discrete setting, while flexibly coupling displacement and phase fields in the continuous setting.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMPS</div><img src='images/PFEM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -285,6 +297,20 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI4PDEs_book.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scientific Machine Learning with Engineering Applications](https://link.springer.com/book/10.1007/978-3-032-20307-6)
+
+Timon Rabczuk, Cosmin Anitescu, Somdatta Goswami, Xiaoying Zhuang, **Yizheng Wang**
+
+[**PDF**](https://www.nature.com/articles/s41467-026-76748-1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   One of the first books on machine learning based solutions of partial differential equations
+</div>
+</div>
+
+
 # 📝 Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Continual_NOs.png' alt="sym" width="100%"></div></div>
@@ -300,22 +326,56 @@ Mohammad Sadegh Eshaghi, Mostafa Bamdad, Cosmin Anitescu, **Yizheng Wang**, Xiao
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/XDEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WINO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Unified AI-Driven Fracture Mechanics: TheExtended Deep Energy Method (XDEM)](https://arxiv.org/abs/2511.05888)
+[WINO: A Weak-Form Physics Informed Neural Operator for Hyperelasticity on Variable Domains](https://arxiv.org/abs/2605.24651)
 
-**Yizheng Wang**, Yuzhou Lin, Somdatta Goswami, Luyang Zhao, Huadong Zhang, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+Bokai Zhu, **Yizheng Wang**, Qinghui Zhang, Timon Rabczuk
 
-[**PDF**](https://arxiv.org/abs/2511.05888) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We propose Extended Deep Energy Method (XDEM), a unified deep learning framework that incorporates both displacement discontinuities and crack-tip asymptotics in the discrete setting, while flexibly coupling displacement and phase fields in the continuous setting.
+[**PDF**](https://arxiv.org/abs/2605.24651) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose a Weak-form Physics-Informed Neural Operator (WINO), a data-free framework that combines the efficiency of neural operators with the geometric flexibility of the φ-finite element method (φ-FEM). 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/GA_VINO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GA-VINO: A Geometry-Aware Variational Physics-informed Neural Operator for Mindlin–Reissner Plates](https://arxiv.org/abs/2606.16624)
+
+Siqi Wang, Daobo Sun, **Yizheng Wang**, Yilong Zhang, Yabin Jin, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/abs/2606.16624) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose a geometry-aware variational physics-informed neural operator (GA-VINO) for Mindlin–Reissner plates.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/FEVessel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FEVessel: Mesh-Independent Analysis of 3D Pressure Vessels with the Label-Free Pretrained Finite Element Method](https://arxiv.org/abs/2607.17318)
+
+Yipin Sun, **Yizheng Wang**, Yuzhou Lin, Baiyang Zheng, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/abs/2607.17318) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose FEVessel, an adaptation of the Pretrained Finite Element Method (PFEM) to three-dimensional (3D) pressure vessels
 </div>
 </div>
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NO_fish.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Neural Operators for Immersed-Boundary Soft Swimmers Locomotion](https://arxiv.org/abs/2608.07722)
 
+Mohammad Sadegh Eshaghi, **Yizheng Wang**, Navid Valizadeh, Xiaoying Zhuang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/abs/2608.07722) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We develop neural-operator surrogates for temporal prediction of the hydrodynamic fields generated by planar and volumetric eel swimmers.
+</div>
+</div>
 
 
 
