@@ -21,7 +21,7 @@ Hi, my name is Yizheng Wang. I am a second year Ph.D. student in Department of E
 
 I am majoring in solid mechanics and have rich experience in physical theory, computation, and experiment. I mainly focus on solving Partial Differential Equations of solid mechanics based on the physics-informed neural networks(PINNs), operator learning and deep energy method. My research interest is AI4Science, specifically AI for mechanics.
 
-My representative works are: [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), [PFEM](https://arxiv.org/abs/2601.03086) and [review of AI4PDEs](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570/Artificial-Intelligence-For-Partial-Differential?searchresult=1).
+My representative works are:  [PFEM](https://www.sciencedirect.com/science/article/abs/pii/S0022509626001833), [XDEM](https://www.nature.com/articles/s41467-026-76748-1), [KINN](https://www.sciencedirect.com/science/article/pii/S0045782524007722), [DCEM](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7585), [CENN](https://www.sciencedirect.com/science/article/pii/S0045782522005096), and [review of AI4PDEs](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570/Artificial-Intelligence-For-Partial-Differential?searchresult=1).
 
 My email is wang-yz19@tsinghua.org.cn
 
