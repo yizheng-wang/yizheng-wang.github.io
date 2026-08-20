@@ -328,6 +328,18 @@ Timon Rabczuk, Cosmin Anitescu, Somdatta Goswami, Xiaoying Zhuang, **Yizheng Wan
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Plasolver.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Plasolver: Physics-Informed Neural Operators for Elastoplasticity](https://arxiv.org/html/2608.15157v1)
+
+**Yizheng Wang**, Mohammad Sadegh Eshaghi, Huadong Zhang, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+
+[**PDF**](https://arxiv.org/html/2608.15157v1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose Plasolver, a physics-informed neural operator framework that combines the efficiency of operator learning with the accuracy and robustness of classical numerical solvers.   
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WINO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
