@@ -76,17 +76,7 @@ My email is wang-yz19@tsinghua.org.cn
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Structures</div><img src='images/LMDEM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Energy Method with Large Language Model assistance: an open-source Streamlit-based platform for solving variational PDEs](https://www.sciencedirect.com/science/article/pii/S0045794926002063)
-
-**Yizheng Wang**, Cosmin Anitescu, Mohammad Sadegh Eshaghi,  Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
-
-[**PDF**](https://arxiv.org/abs/2602.07838) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We present LM-DEM(Large-Model-assisted Deep Energy Method), an open-source, Streamlit-based platform for solving variationalpartial differential equations (PDEs) in computational mechanics.
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS</div><img src='images/HomoGenius.png' alt="sym" width="100%"></div></div>
@@ -129,6 +119,19 @@ My email is wang-yz19@tsinghua.org.cn
 - We review AI for PDEs in solid mechanics.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Structures</div><img src='images/LMDEM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Energy Method with Large Language Model assistance: an open-source Streamlit-based platform for solving variational PDEs](https://www.sciencedirect.com/science/article/pii/S0045794926002063)
+
+**Yizheng Wang**, Cosmin Anitescu, Mohammad Sadegh Eshaghi,  Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
+
+[**PDF**](https://arxiv.org/abs/2602.07838) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We present LM-DEM(Large-Model-assisted Deep Energy Method), an open-source, Streamlit-based platform for solving variationalpartial differential equations (PDEs) in computational mechanics.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMAME</div><img src='images/CENN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
