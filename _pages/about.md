@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Yizheng Wang. I am a second year Ph.D. student in Department of Engineering Mechanics, Tsinghua University (2024-now), supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) and [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en). I major in engineering mechanics, mainly doing computational solid mechanics and received my master’s degree supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) (2019-2022) from the Institute of Solid Mechanics (ISM), Department of Engineering Mechanics, Tsinghua University, and Bachelor's degree from Civil Aviation University of China in Tianjin. I also worked as a research assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) (2022-2023). I have came to Bauhaus University as a guest researcher in Weimar supervised by [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en) for AI for mechanics (2023-2024). My email is wang-yz19@tsinghua.org.cn
+Hi, my name is Yizheng Wang. I am a third year Ph.D. student in Department of Engineering Mechanics, Tsinghua University (2024-now), supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) and [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en). I major in engineering mechanics, mainly doing computational solid mechanics and received my master’s degree supervised by [Prof. Yinghua Liu](https://www.hy.tsinghua.edu.cn/info/1152/1778.htm) (2019-2022) from the Institute of Solid Mechanics (ISM), Department of Engineering Mechanics, Tsinghua University, and Bachelor's degree from Civil Aviation University of China in Tianjin. I also worked as a research assistant at [Microsoft Research AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) (2022-2023). I have came to Bauhaus University as a guest researcher in Weimar supervised by [Prof. Rabczuk](https://scholar.google.ca/citations?user=3CBuGosAAAAJ&hl=en) for AI for mechanics (2023-2024). My email is wang-yz19@tsinghua.org.cn
 
 I am majoring in solid mechanics and have rich experience in physical theory, computation, and experiment. I mainly focus on solving Partial Differential Equations of solid mechanics based on the physics-informed neural networks(PINNs), operator learning and deep energy method. My research interest is AI4Science, specifically AI for mechanics, physics AI, and world model.
 
@@ -166,6 +166,19 @@ My email is wang-yz19@tsinghua.org.cn
 Jinshuai Bai, **Yizheng Wang**, Hyogu Jeong, Shiyuan Chu, Qingxia Wang, Laith Alzubaidi, Xiaoying Zhuang, Timon Rabczuk, Yi Min Xie, Xi-Qiao Feng, and Yuantong Gu
 [**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/msd2.70030) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -  Discuss the future of foundational frameworks that combine the strengths of physics and data.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WINO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WINO: A Weak-Form Physics Informed Neural Operator for Hyperelasticity on Variable Domains](https://www.sciencedirect.com/science/article/pii/S0045782526006298)
+
+Bokai Zhu, **Yizheng Wang**, Qinghui Zhang, Timon Rabczuk
+
+[**PDF**](https://arxiv.org/abs/2605.24651) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-   We propose a Weak-form Physics-Informed Neural Operator (WINO), a data-free framework that combines the efficiency of neural operators with the geometric flexibility of the φ-finite element method (φ-FEM). 
 </div>
 </div>
 
@@ -343,17 +356,7 @@ Timon Rabczuk, Cosmin Anitescu, Somdatta Goswami, Xiaoying Zhuang, **Yizheng Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WINO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[WINO: A Weak-Form Physics Informed Neural Operator for Hyperelasticity on Variable Domains](https://arxiv.org/abs/2605.24651)
-
-Bokai Zhu, **Yizheng Wang**, Qinghui Zhang, Timon Rabczuk
-
-[**PDF**](https://arxiv.org/abs/2605.24651) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--   We propose a Weak-form Physics-Informed Neural Operator (WINO), a data-free framework that combines the efficiency of neural operators with the geometric flexibility of the φ-finite element method (φ-FEM). 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/GA_VINO.png' alt="sym" width="100%"></div></div>
@@ -401,6 +404,8 @@ Mohammad Sadegh Eshaghi, **Yizheng Wang**, Navid Valizadeh, Xiaoying Zhuang, Tim
 
 
 # 🎖 Honors and Awards
+- *2026.10* National Scholarship, Tsinghua University (Ranked 1st among 800 students in the department).  清华大学国家奖学金（院系排名第一，1/800）+ 特奖候选人
+- *2026.06* Person of the Year Award, Tsinghua University (Ranked 1st among 800 students in the department). 清华大学风云人物（院系排名第一，1/800）
 - *2024.10* I participate in ([DACOMA-24](https://www.dacoma.org.cn/)) and win the best paper award again!
 - *2024.05* Future Scholar at Tsinghua University (清华大学未来学者)！
 - *2022.09* I participate in ([DACOMA-22](https://www.dacoma.org.cn/)) and win the best paper award!
