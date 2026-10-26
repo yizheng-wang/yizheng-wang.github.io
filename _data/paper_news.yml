@@ -17,8 +17,8 @@ pfem:
   url: "https://www.tsinghua.edu.cn/info/1175/126528.htm"
   doi: "10.1016/j.jmps.2026.106682"
 
-transfer-learning:
-  source: "AI4CFD（转载）"
-  title: "清华大学王一铮等：物理信息神经网络中的迁移学习：完全微调、轻量级微调与低秩自适应（附代码数据）"
-  url: "https://post.smzdm.com/zz/p/a0v4848z/"
-  doi: "10.1002/msd2.70030"
+kinn:
+  source: "Quanta Magazine"
+  title: "Novel Architecture Makes Neural Networks More Understandable"
+  url: "https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/"
+  paper_url: "https://arxiv.org/abs/2406.11045"

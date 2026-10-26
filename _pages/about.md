@@ -70,7 +70,7 @@ My email is wang-yz19@tsinghua.org.cn
 
 **Yizheng Wang**, Jia Sun, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
 
-[**PDF**](https://arxiv.org/pdf/2406.11045) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="kinn" %} {% include paper-video-links.html id="kinn" %}
+[**PDF**](https://arxiv.org/pdf/2406.11045) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="kinn" %} {% include paper-news-link.html id="kinn" %} {% include paper-video-links.html id="kinn" %}
 -  We propose different PDE forms based on KAN instead of MLP, termed Kolmogorov-Arnold-Informed Neural Network (KINN). We systematically compare MLP and KAN in various numerical examples of PDEs, including multi-scale, singularity, stress concentration, nonlinear hyperelasticity, heterogeneous, and complex geometry problems. Our results demonstrate that KINN significantly outperforms MLP in terms of accuracy and convergence speed for numerous PDEs in computational solid mechanics, except for the complex geometry problem. This highlights KINN's potential for more efficient and accurate PDE solutions in AI for PDEs.
 </div>
 </div>
@@ -152,7 +152,7 @@ My email is wang-yz19@tsinghua.org.cn
 [Transfer Learning in Physics-Informed Neural Networks: Full Fine-Tuning, Lightweight FineTuning, and Low-Rank Adaptation](https://onlinelibrary.wiley.com/doi/10.1002/msd2.70030)
 
 **Yizheng Wang**, Jinshuai Bai, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
-[**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/msd2.70030) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="transfer-learning" %} {% include paper-news-link.html id="transfer-learning" %} {% include paper-video-links.html id="transfer-learning" %}
+[**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/msd2.70030) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="transfer-learning" %} {% include paper-video-links.html id="transfer-learning" %}
 -  We explore the generalization capability of transfer learning in the strong and energy form of PINNs across different boundary conditions, materials, and geometries. The transfer learning methods we employ include full finetuning, lightweight finetuning, and Low-Rank Adaptation (LoRA).
 </div>
 </div>

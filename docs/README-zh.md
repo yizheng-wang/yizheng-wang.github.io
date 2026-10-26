@@ -84,6 +84,6 @@ AcadHomepage
 
 ## 论文推送与 B 站主页
 
-`_data/paper_news.yml` 保存与论文标题或 DOI 核对后的报道。对应论文的 PDF / Code 链接旁加入 `{% include paper-news-link.html id="对应的唯一标识" %}`，显示带来源的推送按钮。字段包括来源 `source`、报道标题 `title`、链接 `url` 和便于核对的 `doi`。优先链接官方原文；转载页面需在来源中标注“转载”。目前清华新闻网两篇报道对应 XDEM、PFEM 和计算力学 AI for PDEs 综述，AI4CFD 转载对应 Transfer Learning；尚未找到可靠对应报道的论文不添加推送按钮。
+`_data/paper_news.yml` 保存与论文标题或 DOI 核对后的报道。对应论文的 PDF / Code 链接旁加入 `{% include paper-news-link.html id="对应的唯一标识" %}`，显示带来源的推送按钮。字段包括来源 `source`、报道标题 `title`、链接 `url` 和便于核对的 `doi` 或 `paper_url`。优先链接官方原文；转载页面需在来源中标注“转载”。目前清华新闻网两篇报道对应 XDEM、PFEM 和计算力学 AI for PDEs 综述，Quanta Magazine 报道对应 KINN；尚未找到可靠对应报道的论文不添加推送按钮。
 
 B 站主页配置在 `_config.yml` 的 `author.bilibili`（用户 UID）和 `author.bilibili_name`（昵称），桌面资料栏显示名称，手机社交入口提供图标和可访问名称。
