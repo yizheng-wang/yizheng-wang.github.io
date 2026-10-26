@@ -1,0 +1,50 @@
+ai4pdes-cm:
+  title: "AI for PDEs in computational mechanics: A review"
+  poster: /images/EAAI_AI4PDEs.png
+  zh: /准备发表的视频/Chinese/AI4PDEs_CM_视频.mp4
+  en: /准备发表的视频/English/AI4PDEs_CM_EN.mp4
+xdem:
+  title: "XDEM: Extended Deep Energy Method"
+  poster: /images/XDEM.png
+  zh: /准备发表的视频/Chinese/XDEM_视频.mp4
+  en: /准备发表的视频/English/XDEM_EN.mp4
+pfem:
+  title: "PFEM: Pretrain Finite Element Method"
+  poster: /images/PFEM.png
+  zh: /准备发表的视频/Chinese/PFEM_视频.mp4
+  en: /准备发表的视频/English/PFEM_EN.mp4
+kinn:
+  title: "KINN: Kolmogorov Arnold Informed Neural Network"
+  poster: /images/KINN.png
+  zh: /准备发表的视频/Chinese/KINN_视频.mp4
+  en: /准备发表的视频/English/KINN_EN.mp4
+homogenius:
+  title: "HomoGenius: Material homogenization"
+  poster: /images/HomoGenius.png
+  zh: /准备发表的视频/Chinese/HomoGenius_视频.mp4
+  en: /准备发表的视频/English/HomoGenius_EN.mp4
+dcem:
+  title: "DCEM: Deep Complementary Energy Method"
+  poster: /images/DCEM.png
+  zh: /准备发表的视频/Chinese/DCEM_视频.mp4
+  en: /准备发表的视频/English/DCEM_EN.mp4
+ai4pdes-solid:
+  title: "AI for PDEs in solid mechanics: A review"
+  poster: /images/AI4PDEs_solid_meh.png
+  zh: /准备发表的视频/Chinese/AI+for+PDEs在固体力学领域的研究进展_视频.mp4
+  en: /准备发表的视频/English/AI4PDEs_Solid_EN.mp4
+lmdem:
+  title: "LM-DEM: Deep Energy Method with Large Language Model assistance"
+  poster: /images/LMDEM.png
+  zh: /准备发表的视频/Chinese/DEMLLM_视频.mp4
+  en: /准备发表的视频/English/DEMLLM_EN.mp4
+cenn:
+  title: "CENN: Conservative Energy Method with subdomains"
+  poster: /images/CENN.png
+  zh: /准备发表的视频/Chinese/CENN_视频.mp4
+  en: /准备发表的视频/English/CENN_EN.mp4
+transfer-learning:
+  title: "Transfer Learning in Physics-Informed Neural Networks"
+  poster: /images/transfer_learning.png
+  zh: /准备发表的视频/Chinese/transfer_learning_PINNs_视频.mp4
+  en: /准备发表的视频/English/transfer_learning_PINNs_EN.mp4

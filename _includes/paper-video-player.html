@@ -1,0 +1,19 @@
+<dialog class="paper-video-dialog" id="paper-video-dialog" aria-labelledby="paper-video-title">
+  <div class="paper-video-header">
+    <div>
+      <p class="paper-video-eyebrow">RESEARCH FILM</p>
+      <h2 id="paper-video-title"></h2>
+    </div>
+    <button type="button" class="paper-video-close" aria-label="Close video / 关闭视频" autofocus>×</button>
+  </div>
+  <div class="paper-video-toolbar" role="group" aria-label="Video language / 视频语言">
+    <button type="button" data-language="zh" lang="zh-CN" aria-pressed="false">中文</button>
+    <button type="button" data-language="en" lang="en" aria-pressed="false">English</button>
+  </div>
+  <video class="paper-video-player" controls playsinline preload="none" aria-label="Research film">
+    Your browser does not support embedded video. Please use the link below.
+  </video>
+  <p class="paper-video-error" role="status" hidden>Unable to load this video. Try opening it directly below. / 视频加载失败，请尝试下方链接。</p>
+  <p class="paper-video-footer"><span class="paper-video-language"></span><a class="paper-video-direct" target="_blank" rel="noopener">Open video ↗ / 单独打开</a></p>
+</dialog>
+<script src="{{ '/assets/js/paper-videos.js' | relative_url }}" defer></script>

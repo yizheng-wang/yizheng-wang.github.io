@@ -1,0 +1,4 @@
+{%- assign film = site.data.paper_videos[include.id] -%}
+{%- if film -%}
+<span class="paper-video-links" data-title="{{ film.title | escape }}" data-poster="{{ film.poster | relative_url | escape }}"><a class="paper-video-link" href="{{ film.zh | relative_url | uri_escape | escape }}" data-language="zh" lang="zh-CN" target="_blank" rel="noopener" aria-label="{{ film.title | escape }} — 中文视频"><span aria-hidden="true">▶</span> 视频 · 中文</a><a class="paper-video-link" href="{{ film.en | relative_url | uri_escape | escape }}" data-language="en" lang="en" target="_blank" rel="noopener" aria-label="{{ film.title | escape }} — English video"><span aria-hidden="true">▶</span> Video · EN</a></span>
+{%- endif -%}

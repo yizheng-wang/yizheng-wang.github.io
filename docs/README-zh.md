@@ -65,3 +65,14 @@ AcadHomepage
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
 - AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+# 论文视频
+
+首页的 10 篇论文已通过 `_data/paper_videos.yml` 配置中英文视频，MP4 保存在 `准备发表的视频/Chinese/` 和 `准备发表的视频/English/`。发布时需要将对应 MP4 与网站代码一起提交，保留文件名和目录结构。
+
+为新论文添加视频时，在该 YAML 文件中添加唯一标识、标题 `title`、封面 `poster` 和中英文路径 `zh` / `en`，然后在 `_pages/about.md` 对应论文的 PDF 链接后加入：
+
+```liquid
+{% include paper-video-links.html id="对应的唯一标识" %}
+```
+
+视频在点击入口后加载，不自动播放；弹窗支持切换语言、原生播放控件、Esc 关闭和单独打开 MP4。关闭弹窗会停止播放并释放视频来源。禁用 JavaScript 或浏览器不支持弹窗时，入口仍可直接打开 MP4。
