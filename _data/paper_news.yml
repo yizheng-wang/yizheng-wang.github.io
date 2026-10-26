@@ -1,0 +1,24 @@
+# Verified against the article's paper title / DOI on 2026-10-26.
+ai4pdes-cm:
+  source: "清华新闻网"
+  title: "航院刘应华团队系统构建AI for PDEs智能计算力学框架并提出预训练有限元方法"
+  url: "https://www.tsinghua.edu.cn/info/1175/126528.htm"
+  doi: "10.1115/1.4071710"
+
+xdem:
+  source: "清华新闻网"
+  title: "航院刘应华团队提出扩展深度能量法构建统一人工智能断裂力学框架"
+  url: "https://www.tsinghua.edu.cn/info/1175/127952.htm"
+  doi: "10.1038/s41467-026-76748-1"
+
+pfem:
+  source: "清华新闻网"
+  title: "航院刘应华团队系统构建AI for PDEs智能计算力学框架并提出预训练有限元方法"
+  url: "https://www.tsinghua.edu.cn/info/1175/126528.htm"
+  doi: "10.1016/j.jmps.2026.106682"
+
+transfer-learning:
+  source: "AI4CFD（转载）"
+  title: "清华大学王一铮等：物理信息神经网络中的迁移学习：完全微调、轻量级微调与低秩自适应（附代码数据）"
+  url: "https://post.smzdm.com/zz/p/a0v4848z/"
+  doi: "10.1002/msd2.70030"

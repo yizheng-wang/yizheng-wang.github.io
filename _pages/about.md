@@ -33,7 +33,7 @@ My email is wang-yz19@tsinghua.org.cn
 [Artificial intelligence for partial differential equations in computational mechanics: A review](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570/Artificial-Intelligence-For-Partial-Differential?searchresult=1)
 
 **Yizheng Wang**, Jinshuai Bai, Zhongya Lin, Qimin Wang, Cosmin Anitescu, Jia Sun, Mohammad Sadegh Eshaghi, Yuantong Gu, Xi-Qiao Feng, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
-[**PDF**](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570/Artificial-Intelligence-For-Partial-Differential?searchresult=1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-video-links.html id="ai4pdes-cm" %}
+[**PDF**](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article/doi/10.1115/1.4071710/1232570/Artificial-Intelligence-For-Partial-Differential?searchresult=1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-news-link.html id="ai4pdes-cm" %} {% include paper-video-links.html id="ai4pdes-cm" %}
 -  We review AI for PDEs in computational mechanics, including solid mechanics, fluid mechanics, and biomechanics.
 </div>
 </div>
@@ -45,7 +45,7 @@ My email is wang-yz19@tsinghua.org.cn
 
 **Yizheng Wang**, Yuzhou Lin, Somdatta Goswami, Luyang Zhao, Huadong Zhang, Jinshuai Bai, Cosmin Anitescu, Mohammad Sadegh Eshaghi, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
 
-[**PDF**](https://www.nature.com/articles/s41467-026-76748-1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="xdem" %} {% include paper-video-links.html id="xdem" %}
+[**PDF**](https://www.nature.com/articles/s41467-026-76748-1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="xdem" %} {% include paper-news-link.html id="xdem" %} {% include paper-video-links.html id="xdem" %}
 -   We propose Extended Deep Energy Method (XDEM), a unified deep learning framework that incorporates both displacement discontinuities and crack-tip asymptotics in the discrete setting, while flexibly coupling displacement and phase fields in the continuous setting.
 </div>
 </div>
@@ -58,7 +58,7 @@ My email is wang-yz19@tsinghua.org.cn
 
 **Yizheng Wang**, Zhongkai Hao, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, Yinghua Liu
 
-[**PDF**](https://arxiv.org/pdf/2601.03086) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="pfem" %} {% include paper-video-links.html id="pfem" %}
+[**PDF**](https://arxiv.org/pdf/2601.03086) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="pfem" %} {% include paper-news-link.html id="pfem" %} {% include paper-video-links.html id="pfem" %}
 -   We propose a Pretrained Finite Element Method (PFEM),a physics driven framework that bridges the efficiency of neural operator learning with the accuracy and robustness of classical finite element methods (FEM).
 </div>
 </div>
@@ -152,7 +152,7 @@ My email is wang-yz19@tsinghua.org.cn
 [Transfer Learning in Physics-Informed Neural Networks: Full Fine-Tuning, Lightweight FineTuning, and Low-Rank Adaptation](https://onlinelibrary.wiley.com/doi/10.1002/msd2.70030)
 
 **Yizheng Wang**, Jinshuai Bai, Mohammad Sadegh Eshaghi, Cosmin Anitescu, Xiaoying Zhuang, Timon Rabczuk, and Yinghua Liu
-[**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/msd2.70030) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="transfer-learning" %} {% include paper-video-links.html id="transfer-learning" %}
+[**PDF**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/msd2.70030) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> {% include paper-code-link.html id="transfer-learning" %} {% include paper-news-link.html id="transfer-learning" %} {% include paper-video-links.html id="transfer-learning" %}
 -  We explore the generalization capability of transfer learning in the strong and energy form of PINNs across different boundary conditions, materials, and geometries. The transfer learning methods we employ include full finetuning, lightweight finetuning, and Low-Rank Adaptation (LoRA).
 </div>
 </div>

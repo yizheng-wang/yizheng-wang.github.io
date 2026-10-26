@@ -1,0 +1,4 @@
+{%- assign news = site.data.paper_news[include.id] -%}
+{%- if news -%}
+<a class="paper-news-link" href="{{ news.url | escape }}" target="_blank" rel="noopener" title="{{ news.title | escape }}" aria-label="{{ news.title | escape }} — {{ news.source | escape }}" lang="zh-CN"><i class="fas fa-newspaper" aria-hidden="true"></i> 推送 · {{ news.source | escape }}</a>
+{%- endif -%}

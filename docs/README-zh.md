@@ -80,3 +80,10 @@ AcadHomepage
 ## 论文代码链接
 
 `_data/paper_code.yml` 保存已根据仓库 README 中的论文标题或 DOI 核对的代码链接。独立项目链接到仓库，集中在总仓库中的 KINN、DCEM、CENN 和 Transfer Learning 链接到各自目录。在 `_pages/about.md` 对应论文的 PDF 链接后加入 `{% include paper-code-link.html id="对应的唯一标识" %}` 即可显示 Code 按钮。新增条目时先确认仓库对应论文，再添加 `title` 和 `url`。
+
+
+## 论文推送与 B 站主页
+
+`_data/paper_news.yml` 保存与论文标题或 DOI 核对后的报道。对应论文的 PDF / Code 链接旁加入 `{% include paper-news-link.html id="对应的唯一标识" %}`，显示带来源的推送按钮。字段包括来源 `source`、报道标题 `title`、链接 `url` 和便于核对的 `doi`。优先链接官方原文；转载页面需在来源中标注“转载”。目前清华新闻网两篇报道对应 XDEM、PFEM 和计算力学 AI for PDEs 综述，AI4CFD 转载对应 Transfer Learning；尚未找到可靠对应报道的论文不添加推送按钮。
+
+B 站主页配置在 `_config.yml` 的 `author.bilibili`（用户 UID）和 `author.bilibili_name`（昵称），桌面资料栏显示名称，手机社交入口提供图标和可访问名称。

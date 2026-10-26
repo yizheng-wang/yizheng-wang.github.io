@@ -73,6 +73,9 @@
       {% if author.zhihu %}
         <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Zhihu</a></li>
       {% endif %}
+      {% if author.bilibili %}
+        <li><a href="https://space.bilibili.com/{{ author.bilibili }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-tv" aria-hidden="true"></i> B站 · {{ author.bilibili_name | escape }}</a></li>
+      {% endif %}
       {% if author.lastfm %}
         <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
       {% endif %}
@@ -167,6 +170,9 @@
       {% endif %}
       {% if author.stackoverflow %}
         <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.bilibili %}
+        <a href="https://space.bilibili.com/{{ author.bilibili }}" target="_blank" rel="noopener" title="B站 · {{ author.bilibili_name | escape }}" aria-label="B站 · {{ author.bilibili_name | escape }}"><i class="fas fa-fw fa-tv" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.lastfm %}
         <a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i></a>
