@@ -76,3 +76,7 @@ AcadHomepage
 ```
 
 视频在点击入口后加载，不自动播放；弹窗支持切换语言、原生播放控件、Esc 关闭和单独打开 MP4。关闭弹窗会停止播放并释放视频来源。禁用 JavaScript 或浏览器不支持弹窗时，入口仍可直接打开 MP4。
+
+## 论文代码链接
+
+`_data/paper_code.yml` 保存已根据仓库 README 中的论文标题或 DOI 核对的代码链接。独立项目链接到仓库，集中在总仓库中的 KINN、DCEM、CENN 和 Transfer Learning 链接到各自目录。在 `_pages/about.md` 对应论文的 PDF 链接后加入 `{% include paper-code-link.html id="对应的唯一标识" %}` 即可显示 Code 按钮。新增条目时先确认仓库对应论文，再添加 `title` 和 `url`。

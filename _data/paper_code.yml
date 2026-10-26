@@ -1,0 +1,24 @@
+xdem:
+  title: XDEM
+  url: https://github.com/yizheng-wang/XDEM
+pfem:
+  title: PFEM
+  url: https://github.com/yizheng-wang/PFEM
+kinn:
+  title: KINN
+  url: https://github.com/yizheng-wang/Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN/tree/main/KINN
+homogenius:
+  title: HomoGenius
+  url: https://github.com/yizheng-wang/HomoGenius
+dcem:
+  title: DCEM
+  url: https://github.com/yizheng-wang/Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN/tree/main/DCEM
+lmdem:
+  title: LM-DEM
+  url: https://github.com/yizheng-wang/LMDEM
+cenn:
+  title: CENN
+  url: https://github.com/yizheng-wang/Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN/tree/main/CENN
+transfer-learning:
+  title: Transfer Learning in Physics-Informed Neural Networks
+  url: https://github.com/yizheng-wang/Research-on-Solving-Partial-Differential-Equations-of-Solid-Mechanics-Based-on-PINN/tree/main/Transfer_learning_PINNs

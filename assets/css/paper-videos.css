@@ -5,7 +5,8 @@
   margin: .3rem 0 .3rem .5rem;
   vertical-align: middle;
 }
-.page__content a.paper-video-link {
+.page__content a.paper-video-link,
+.page__content a.paper-code-link {
   display: inline-flex;
   align-items: center;
   gap: .35rem;
@@ -20,7 +21,10 @@
   text-decoration: none;
   white-space: nowrap;
 }
-.page__content a.paper-video-link:hover { background: #e6eef9; border-color: #164b85; }
+.page__content a.paper-code-link { margin-left: .5rem; vertical-align: middle; }
+.page__content a.paper-video-link:hover,
+.page__content a.paper-code-link:hover { background: #e6eef9; border-color: #164b85; }
+.paper-code-link:focus-visible,
 .paper-video-link:focus-visible,
 .paper-video-dialog button:focus-visible,
 .paper-video-dialog a:focus-visible { outline: 3px solid #5598df; outline-offset: 3px; }
