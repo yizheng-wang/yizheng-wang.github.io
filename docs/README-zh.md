@@ -105,6 +105,8 @@ B 站主页配置在 `_config.yml` 的 `author.bilibili`（用户 UID）和 `aut
 3. 在 `_config.yml` 的 `visit_counter.goatcounter_site` 填写分配的站点子域名（不含 `https://` 和 `.goatcounter.com`），`started_on` 填实际启用日期，保留 `production_host` 为正式网站域名。
 4. 部署后检查后台收到真实访问，再检查 `/counter/TOTAL.json` 返回有效数值。GoatCounter 公共计数缓存最长 4 小时，不是每次刷新都立即更新。
 
-页面会注明新统计起始日期，原服务累计数不会自动导入或相加。两家服务的本地缓存隔离，避免误把旧数值当成新服务数据。本地预览只读取数字，不向正式账号发送访问记录。账号密码和 API 密钥无需放入网站。
+站主于 2026-10-27 确认旧统计准确为 5000 次，已在 `visit_counter.historical_base` 保存此历史基数。主页只显示“5000 + GoatCounter 新统计”的总和，不附加历史基数或起始日期说明。历史基数只用于主页展示，不写入 GoatCounter 后台。缓存仍保存新服务原始数值，避免刷新后重复加上基数；切回不蒜子时不加此基数。若接口失败且无缓存，不将历史基数冒充最新总数。
+
+两家服务的本地缓存隔离，避免误把旧数值当成新服务数据。本地预览只读取数字，不向正式账号发送访问记录。账号密码和 API 密钥无需放入网站。
 
 依据：[公开计数文档](https://www.goatcounter.com/help/visitor-counter)、[会话计数口径](https://www.goatcounter.com/help/sessions)。

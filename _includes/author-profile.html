@@ -11,7 +11,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    <p class="author__visits" id="site-visit-counter" aria-live="polite" data-goatcounter-site="{{ site.visit_counter.goatcounter_site | escape }}" data-started-on="{{ site.visit_counter.started_on | escape }}" data-production-host="{{ site.visit_counter.production_host | escape }}">
+    <p class="author__visits" id="site-visit-counter" aria-live="polite" data-goatcounter-site="{{ site.visit_counter.goatcounter_site | escape }}" data-started-on="{{ site.visit_counter.started_on | escape }}" data-historical-base="{{ site.visit_counter.historical_base | default: 0 | escape }}" data-production-host="{{ site.visit_counter.production_host | escape }}">
       <i class="fas fa-fw fa-eye" aria-hidden="true"></i> Visits: <span id="busuanzi_value_site_pv">暂不可用</span><small id="site-visit-status"></small>
     </p>
   </div>

@@ -7,9 +7,9 @@
   if (!counter || !value || !status) return;
 
   var goatSite = counter.getAttribute('data-goatcounter-site') || '';
-  var startedOn = counter.getAttribute('data-started-on') || '';
   var productionHost = counter.getAttribute('data-production-host') || '';
-  var newPeriod = goatSite ? (/^\d{4}-\d{2}-\d{2}$/.test(startedOn) ? '（自 ' + startedOn + '）' : '（新统计）') : '';
+  var configuredBase = counter.getAttribute('data-historical-base') || '0';
+  var historicalBase = goatSite && validCount(configuredBase) ? Number(configuredBase) : 0;
   // Never mix providers' totals or count a page view again on a display retry.
   var cacheKey = 'site-visits:' + (goatSite ? 'goatcounter:' + goatSite : 'busuanzi') + ':v1:' + window.location.hostname;
   var cached;
@@ -20,31 +20,36 @@
   }
   try {
     cached = JSON.parse(window.localStorage.getItem(cacheKey));
-    if (!cached || !validCount(cached.count) ||
+    if (!cached || !validCount(cached.count) || !Number.isSafeInteger(Number(cached.count) + historicalBase) ||
         !Number.isFinite(cached.savedAt) || cached.savedAt <= 0) cached = null;
   } catch (error) { cached = null; }
 
   function showPending(failed) {
     if (received) return;
     if (cached) {
-      value.textContent = String(cached.count);
-      status.textContent = newPeriod + '（缓存）';
+      value.textContent = String(Number(cached.count) + historicalBase);
+      status.textContent = '（缓存）';
       counter.title = '上次成功获取：' + new Date(cached.savedAt).toLocaleString() +
         (failed ? '；统计服务暂未返回最新数据' : '；正在更新');
     } else {
       value.textContent = failed ? '暂不可用' : '加载中…';
-      status.textContent = newPeriod;
+      status.textContent = '';
       counter.title = failed ? '统计服务暂未返回数据，请稍后访问。此状态不代表浏览次数为零。' : '正在获取全站浏览次数';
     }
   }
   showPending(false);
 
   function showCount(count, source) {
+    if (!Number.isSafeInteger(count + historicalBase)) {
+      showPending(true);
+      return;
+    }
     received = true;
-    value.textContent = String(count);
-    status.textContent = newPeriod;
+    value.textContent = String(count + historicalBase);
+    status.textContent = '';
     counter.title = '全站浏览次数 · ' + source;
     try {
+      // Cache the provider's raw count so the historical base is added only once.
       window.localStorage.setItem(cacheKey, JSON.stringify({count: count, savedAt: Date.now()}));
     } catch (error) { /* Live counts also work with browser storage disabled. */ }
   }
