@@ -11,6 +11,12 @@ description              : "Ph.D. Candidate in Tsinghua University, foucus on AI
 repository               : "yizheng-wang/yizheng-wang.github.io"
 google_scholar_stats_use_cdn : true
 
+# Leave empty until your own GoatCounter site is ready; Busuanzi remains active.
+visit_counter:
+  goatcounter_site: "yizheng" # Site code only, e.g. the part before .goatcounter.com
+  started_on: "2026-10-27" # YYYY-MM-DD: start of the new counter, not the old lifetime total
+  production_host: "yizheng-wang.github.io"
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 

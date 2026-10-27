@@ -91,6 +91,20 @@ B 站主页配置在 `_config.yml` 的 `author.bilibili`（用户 UID）和 `aut
 
 ## 浏览次数
 
-浏览次数显示在个人资料名称下，桌面和手机均可见。`assets/js/site-visits.js` 通过 HTTPS 请求原有不蒜子接口，沿用原站点的统计来源，每次页面加载只请求一次，不自动重试或在本地增加数值。
+浏览次数显示在个人资料名称下，桌面和手机均可见。当前配置使用 `yizheng.goatcounter.com`，由 `assets/js/site-visits.js` 加载官方统计脚本并读取全站总数；清空 `visit_counter.goatcounter_site` 才会恢复旧的不蒜子接口。不自动重试计数请求，也不在本地增加数值。
 
 接口超过 8 秒未返回时，有缓存则显示上次成功获取的次数并标注“缓存”（悬停可查看获取时间），没有缓存则显示“暂不可用”。迟到的有效响应仍会更新计数。缓存只保存在当前浏览器、当前域名下，不等同于统计数据库备份；第三方服务不可用时，首次访问者无法取得真实总数。预览域名与正式域名的统计彼此独立。
+
+
+### 切换到自己的 GoatCounter 账号
+
+已配置用户提供的 `yizheng` 账号；公开计数权限需要在账号后台开启，代码部署后才开始统计正式网站访问。更换账号或重新配置时：
+
+1. 在 https://www.goatcounter.com/signup 注册，站点域名填写 `yizheng-wang.github.io`。
+2. 在站点设置开启 **Allow adding visitor counts on your website**，否则公开计数接口不可读。若要与之前 PV 的“每次打开页面计一次”口径一致，在 **Settings → Data collection → Sessions** 关闭会话去重。
+3. 在 `_config.yml` 的 `visit_counter.goatcounter_site` 填写分配的站点子域名（不含 `https://` 和 `.goatcounter.com`），`started_on` 填实际启用日期，保留 `production_host` 为正式网站域名。
+4. 部署后检查后台收到真实访问，再检查 `/counter/TOTAL.json` 返回有效数值。GoatCounter 公共计数缓存最长 4 小时，不是每次刷新都立即更新。
+
+页面会注明新统计起始日期，原服务累计数不会自动导入或相加。两家服务的本地缓存隔离，避免误把旧数值当成新服务数据。本地预览只读取数字，不向正式账号发送访问记录。账号密码和 API 密钥无需放入网站。
+
+依据：[公开计数文档](https://www.goatcounter.com/help/visitor-counter)、[会话计数口径](https://www.goatcounter.com/help/sessions)。
