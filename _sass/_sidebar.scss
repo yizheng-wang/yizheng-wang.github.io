@@ -145,6 +145,14 @@
   }
 }
 
+.sidebar .author__visits {
+  margin: .5em 0;
+  font-size: $type-size-6;
+  line-height: 1.5;
+  span, small { display: inline-block; white-space: nowrap; }
+  small { color: $gray; }
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
